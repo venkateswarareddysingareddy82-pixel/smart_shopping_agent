@@ -1,0 +1,5385 @@
+[
+ {
+  "id": 1,
+  "name": "Orbit Easy 4G",
+  "category": "smartphones",
+  "subcategory": "Smartphone",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Easy 4G is a demo smartphone with 3 GB RAM, 32 GB storage and a 4000 mAh battery.",
+  "price": 6999,
+  "original_price": 7999,
+  "discount": 13,
+  "rating": 3.9,
+  "review_count": 640,
+  "stock": 55,
+  "in_stock": true,
+  "images": [
+   "/api/images/1/0.svg",
+   "/api/images/1/1.svg",
+   "/api/images/1/2.svg"
+  ],
+  "image": "/api/images/1/0.svg",
+  "specifications": {
+   "RAM": "3 GB",
+   "Storage": "32 GB",
+   "Battery": "4000 mAh",
+   "Rear Camera": "8 MP",
+   "Display": "5.5 inch, 60 Hz",
+   "Processor": "Performance score 20/100",
+   "Charging": "10W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "4000 mAh battery",
+   "8 MP camera",
+   "60 Hz display",
+   "10W charging"
+  ],
+  "advantages": [
+   "Budget friendly"
+  ],
+  "disadvantages": [
+   "Average buyer rating",
+   "Smaller battery",
+   "Basic camera",
+   "Limited RAM; may slow down with heavy apps"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "elderly-friendly",
+   "budget",
+   "big-text"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Orbit Orbit Easy 4G elderly-friendly budget big-text",
+  "metrics": {
+   "ram_gb": 3,
+   "storage_gb": 32,
+   "battery_mah": 4000,
+   "camera_mp": 8,
+   "refresh_hz": 60,
+   "perf_score": 20,
+   "charge_w": 10,
+   "screen_inch": 5.5
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080844",
+  "updated_at": "2026-10-17T08:10:21.098007"
+ },
+ {
+  "id": 2,
+  "name": "Zenix Spark Lite 4G",
+  "category": "smartphones",
+  "subcategory": "Smartphone",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Spark Lite 4G is a demo smartphone with 4 GB RAM, 64 GB storage and a 5000 mAh battery.",
+  "price": 7499,
+  "original_price": 8999,
+  "discount": 17,
+  "rating": 4.0,
+  "review_count": 1850,
+  "stock": 80,
+  "in_stock": true,
+  "images": [
+   "/api/images/2/0.svg",
+   "/api/images/2/1.svg",
+   "/api/images/2/2.svg"
+  ],
+  "image": "/api/images/2/0.svg",
+  "specifications": {
+   "RAM": "4 GB",
+   "Storage": "64 GB",
+   "Battery": "5000 mAh",
+   "Rear Camera": "13 MP",
+   "Display": "6.5 inch, 60 Hz",
+   "Processor": "Performance score 30/100",
+   "Charging": "10W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "5000 mAh battery",
+   "13 MP camera",
+   "60 Hz display",
+   "10W charging"
+  ],
+  "advantages": [
+   "Budget friendly"
+  ],
+  "disadvantages": [
+   "Basic camera",
+   "Limited RAM; may slow down with heavy apps",
+   "Not meant for heavy gaming or professional work"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "budget"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Zenix Zenix Spark Lite 4G budget",
+  "metrics": {
+   "ram_gb": 4,
+   "storage_gb": 64,
+   "battery_mah": 5000,
+   "camera_mp": 13,
+   "refresh_hz": 60,
+   "perf_score": 30,
+   "charge_w": 10,
+   "screen_inch": 6.5
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080853",
+  "updated_at": "2026-10-17T08:10:21.098013"
+ },
+ {
+  "id": 3,
+  "name": "Zenix Spark Plus",
+  "category": "smartphones",
+  "subcategory": "Smartphone",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Spark Plus is a demo smartphone with 4 GB RAM, 128 GB storage and a 5000 mAh battery.",
+  "price": 9999,
+  "original_price": 11999,
+  "discount": 17,
+  "rating": 4.1,
+  "review_count": 2210,
+  "stock": 64,
+  "in_stock": true,
+  "images": [
+   "/api/images/3/0.svg",
+   "/api/images/3/1.svg",
+   "/api/images/3/2.svg"
+  ],
+  "image": "/api/images/3/0.svg",
+  "specifications": {
+   "RAM": "4 GB",
+   "Storage": "128 GB",
+   "Battery": "5000 mAh",
+   "Rear Camera": "50 MP",
+   "Display": "6.6 inch, 90 Hz",
+   "Processor": "Performance score 40/100",
+   "Charging": "18W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "5000 mAh battery",
+   "50 MP camera",
+   "90 Hz display",
+   "18W charging"
+  ],
+  "advantages": [
+   "Sharp 50 MP main camera",
+   "Budget friendly"
+  ],
+  "disadvantages": [
+   "Limited RAM; may slow down with heavy apps"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "budget"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Zenix Zenix Spark Plus budget",
+  "metrics": {
+   "ram_gb": 4,
+   "storage_gb": 128,
+   "battery_mah": 5000,
+   "camera_mp": 50,
+   "refresh_hz": 90,
+   "perf_score": 40,
+   "charge_w": 18,
+   "screen_inch": 6.6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080855",
+  "updated_at": "2026-10-17T08:10:21.098016"
+ },
+ {
+  "id": 4,
+  "name": "Aarav Power 7000",
+  "category": "smartphones",
+  "subcategory": "Smartphone",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Power 7000 is a demo smartphone with 6 GB RAM, 128 GB storage and a 7000 mAh battery.",
+  "price": 13499,
+  "original_price": 15499,
+  "discount": 13,
+  "rating": 4.2,
+  "review_count": 980,
+  "stock": 30,
+  "in_stock": true,
+  "images": [
+   "/api/images/4/0.svg",
+   "/api/images/4/1.svg",
+   "/api/images/4/2.svg"
+  ],
+  "image": "/api/images/4/0.svg",
+  "specifications": {
+   "RAM": "6 GB",
+   "Storage": "128 GB",
+   "Battery": "7000 mAh",
+   "Rear Camera": "50 MP",
+   "Display": "6.7 inch, 90 Hz",
+   "Processor": "Performance score 45/100",
+   "Charging": "25W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "7000 mAh battery",
+   "50 MP camera",
+   "90 Hz display",
+   "25W charging"
+  ],
+  "advantages": [
+   "Sharp 50 MP main camera",
+   "Large 7000 mAh battery for long use"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "long-battery"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Aarav Aarav Power 7000 long-battery",
+  "metrics": {
+   "ram_gb": 6,
+   "storage_gb": 128,
+   "battery_mah": 7000,
+   "camera_mp": 50,
+   "refresh_hz": 90,
+   "perf_score": 45,
+   "charge_w": 25,
+   "screen_inch": 6.7
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080858",
+  "updated_at": "2026-10-17T08:10:21.098017"
+ },
+ {
+  "id": 5,
+  "name": "Nova M2",
+  "category": "smartphones",
+  "subcategory": "Smartphone",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova M2 is a demo smartphone with 6 GB RAM, 128 GB storage and a 6000 mAh battery.",
+  "price": 12999,
+  "original_price": 15999,
+  "discount": 19,
+  "rating": 4.3,
+  "review_count": 3120,
+  "stock": 70,
+  "in_stock": true,
+  "images": [
+   "/api/images/5/0.svg",
+   "/api/images/5/1.svg",
+   "/api/images/5/2.svg"
+  ],
+  "image": "/api/images/5/0.svg",
+  "specifications": {
+   "RAM": "6 GB",
+   "Storage": "128 GB",
+   "Battery": "6000 mAh",
+   "Rear Camera": "50 MP",
+   "Display": "6.6 inch, 90 Hz",
+   "Processor": "Performance score 52/100",
+   "Charging": "22W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "6000 mAh battery",
+   "50 MP camera",
+   "90 Hz display",
+   "22W charging"
+  ],
+  "advantages": [
+   "Sharp 50 MP main camera",
+   "Large 6000 mAh battery for long use"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "long-battery"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Nova Nova M2 long-battery",
+  "metrics": {
+   "ram_gb": 6,
+   "storage_gb": 128,
+   "battery_mah": 6000,
+   "camera_mp": 50,
+   "refresh_hz": 90,
+   "perf_score": 52,
+   "charge_w": 22,
+   "screen_inch": 6.6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080860",
+  "updated_at": "2026-10-17T08:10:21.098019"
+ },
+ {
+  "id": 6,
+  "name": "Nova M2 Pro",
+  "category": "smartphones",
+  "subcategory": "Smartphone",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova M2 Pro is a demo smartphone with 8 GB RAM, 128 GB storage and a 5500 mAh battery.",
+  "price": 14999,
+  "original_price": 17999,
+  "discount": 17,
+  "rating": 4.4,
+  "review_count": 2760,
+  "stock": 48,
+  "in_stock": true,
+  "images": [
+   "/api/images/6/0.svg",
+   "/api/images/6/1.svg",
+   "/api/images/6/2.svg"
+  ],
+  "image": "/api/images/6/0.svg",
+  "specifications": {
+   "RAM": "8 GB",
+   "Storage": "128 GB",
+   "Battery": "5500 mAh",
+   "Rear Camera": "64 MP",
+   "Display": "6.67 inch, 120 Hz",
+   "Processor": "Performance score 62/100",
+   "Charging": "33W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "5500 mAh battery",
+   "64 MP camera",
+   "120 Hz display",
+   "33W charging"
+  ],
+  "advantages": [
+   "Sharp 64 MP main camera",
+   "Large 5500 mAh battery for long use",
+   "Smooth 120 Hz screen",
+   "8 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "all-rounder"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Nova Nova M2 Pro all-rounder",
+  "metrics": {
+   "ram_gb": 8,
+   "storage_gb": 128,
+   "battery_mah": 5500,
+   "camera_mp": 64,
+   "refresh_hz": 120,
+   "perf_score": 62,
+   "charge_w": 33,
+   "screen_inch": 6.67
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080862",
+  "updated_at": "2026-10-17T08:10:21.098021"
+ },
+ {
+  "id": 7,
+  "name": "Aarav Click 5G",
+  "category": "smartphones",
+  "subcategory": "5G Smartphone",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Click 5G is a demo smartphone with 8 GB RAM, 128 GB storage and a 5000 mAh battery.",
+  "price": 17499,
+  "original_price": 19999,
+  "discount": 13,
+  "rating": 4.5,
+  "review_count": 1540,
+  "stock": 26,
+  "in_stock": true,
+  "images": [
+   "/api/images/7/0.svg",
+   "/api/images/7/1.svg",
+   "/api/images/7/2.svg"
+  ],
+  "image": "/api/images/7/0.svg",
+  "specifications": {
+   "RAM": "8 GB",
+   "Storage": "128 GB",
+   "Battery": "5000 mAh",
+   "Rear Camera": "108 MP",
+   "Display": "6.7 inch, 120 Hz",
+   "Processor": "Performance score 68/100",
+   "Charging": "33W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "5000 mAh battery",
+   "108 MP camera",
+   "120 Hz display",
+   "33W charging"
+  ],
+  "advantages": [
+   "Sharp 108 MP main camera",
+   "Smooth 120 Hz screen",
+   "8 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "camera-focus"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Aarav Aarav Click 5G camera-focus",
+  "metrics": {
+   "ram_gb": 8,
+   "storage_gb": 128,
+   "battery_mah": 5000,
+   "camera_mp": 108,
+   "refresh_hz": 120,
+   "perf_score": 68,
+   "charge_w": 33,
+   "screen_inch": 6.7
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080864",
+  "updated_at": "2026-10-17T08:10:21.098023"
+ },
+ {
+  "id": 8,
+  "name": "Nova X5 5G",
+  "category": "smartphones",
+  "subcategory": "5G Smartphone",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova X5 5G is a demo smartphone with 8 GB RAM, 256 GB storage and a 5000 mAh battery.",
+  "price": 19999,
+  "original_price": 24999,
+  "discount": 20,
+  "rating": 4.4,
+  "review_count": 2310,
+  "stock": 40,
+  "in_stock": true,
+  "images": [
+   "/api/images/8/0.svg",
+   "/api/images/8/1.svg",
+   "/api/images/8/2.svg"
+  ],
+  "image": "/api/images/8/0.svg",
+  "specifications": {
+   "RAM": "8 GB",
+   "Storage": "256 GB",
+   "Battery": "5000 mAh",
+   "Rear Camera": "64 MP",
+   "Display": "6.67 inch, 120 Hz",
+   "Processor": "Performance score 75/100",
+   "Charging": "45W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "5000 mAh battery",
+   "64 MP camera",
+   "120 Hz display",
+   "45W charging"
+  ],
+  "advantages": [
+   "Sharp 64 MP main camera",
+   "Smooth 120 Hz screen",
+   "8 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "all-rounder"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Nova Nova X5 5G all-rounder",
+  "metrics": {
+   "ram_gb": 8,
+   "storage_gb": 256,
+   "battery_mah": 5000,
+   "camera_mp": 64,
+   "refresh_hz": 120,
+   "perf_score": 75,
+   "charge_w": 45,
+   "screen_inch": 6.67
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080867",
+  "updated_at": "2026-10-17T08:10:21.098024"
+ },
+ {
+  "id": 9,
+  "name": "Zenix Play GT",
+  "category": "smartphones",
+  "subcategory": "Smartphone",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Play GT is a demo smartphone with 12 GB RAM, 256 GB storage and a 5000 mAh battery.",
+  "price": 22999,
+  "original_price": 26999,
+  "discount": 15,
+  "rating": 4.5,
+  "review_count": 1890,
+  "stock": 22,
+  "in_stock": true,
+  "images": [
+   "/api/images/9/0.svg",
+   "/api/images/9/1.svg",
+   "/api/images/9/2.svg"
+  ],
+  "image": "/api/images/9/0.svg",
+  "specifications": {
+   "RAM": "12 GB",
+   "Storage": "256 GB",
+   "Battery": "5000 mAh",
+   "Rear Camera": "50 MP",
+   "Display": "6.78 inch, 144 Hz",
+   "Processor": "Performance score 90/100",
+   "Charging": "66W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "5000 mAh battery",
+   "50 MP camera",
+   "144 Hz display",
+   "66W charging"
+  ],
+  "advantages": [
+   "Sharp 50 MP main camera",
+   "Smooth 144 Hz screen",
+   "12 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "gaming"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Zenix Zenix Play GT gaming",
+  "metrics": {
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "battery_mah": 5000,
+   "camera_mp": 50,
+   "refresh_hz": 144,
+   "perf_score": 90,
+   "charge_w": 66,
+   "screen_inch": 6.78
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080869",
+  "updated_at": "2026-10-17T08:10:21.098026"
+ },
+ {
+  "id": 10,
+  "name": "Orbit Pro 5G",
+  "category": "smartphones",
+  "subcategory": "5G Smartphone",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Pro 5G is a demo smartphone with 12 GB RAM, 256 GB storage and a 5000 mAh battery.",
+  "price": 34999,
+  "original_price": 39999,
+  "discount": 13,
+  "rating": 4.6,
+  "review_count": 870,
+  "stock": 12,
+  "in_stock": true,
+  "images": [
+   "/api/images/10/0.svg",
+   "/api/images/10/1.svg",
+   "/api/images/10/2.svg"
+  ],
+  "image": "/api/images/10/0.svg",
+  "specifications": {
+   "RAM": "12 GB",
+   "Storage": "256 GB",
+   "Battery": "5000 mAh",
+   "Rear Camera": "200 MP",
+   "Display": "6.8 inch, 120 Hz",
+   "Processor": "Performance score 92/100",
+   "Charging": "67W fast charging",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "5000 mAh battery",
+   "200 MP camera",
+   "120 Hz display",
+   "67W charging"
+  ],
+  "advantages": [
+   "Sharp 200 MP main camera",
+   "Smooth 120 Hz screen",
+   "12 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "premium",
+   "camera-focus"
+  ],
+  "search_keywords": "phone mobile smartphone cellphone cell phone ఫోన్ మొబైల్ సెల్ ఫోన్ फोन मोबाइल मोबाईल स्मार्टफोन போன் மொபைல் கைபேசி ಫೋನ್ ಮೊಬೈಲ್ ഫോൺ മൊബൈൽ ফোন মোবাইল Orbit Orbit Pro 5G premium camera-focus",
+  "metrics": {
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "battery_mah": 5000,
+   "camera_mp": 200,
+   "refresh_hz": 120,
+   "perf_score": 92,
+   "charge_w": 67,
+   "screen_inch": 6.8
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080871",
+  "updated_at": "2026-10-17T08:10:21.098028"
+ },
+ {
+  "id": 11,
+  "name": "Nova Lite 14",
+  "category": "laptops",
+  "subcategory": "Laptop",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Lite 14 is a demo laptop with 8 GB RAM and 256 GB SSD.",
+  "price": 24999,
+  "original_price": 29999,
+  "discount": 17,
+  "rating": 4.0,
+  "review_count": 720,
+  "stock": 35,
+  "in_stock": true,
+  "images": [
+   "/api/images/11/0.svg",
+   "/api/images/11/1.svg",
+   "/api/images/11/2.svg"
+  ],
+  "image": "/api/images/11/0.svg",
+  "specifications": {
+   "RAM": "8 GB",
+   "Storage": "256 GB SSD",
+   "Battery life": "Up to 7 hours",
+   "Display": "14 inch",
+   "Processor": "Performance score 35/100",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "8 GB RAM",
+   "256 GB SSD",
+   "7 hours battery"
+  ],
+  "advantages": [
+   "8 GB RAM for smooth multitasking"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "budget",
+   "student"
+  ],
+  "search_keywords": "laptop notebook ల్యాప్‌టాప్ లాప్‌టాప్ ల్యాప్ టాప్ लैपटॉप லேப்டாப் ಲ್ಯಾಪ್‌ಟಾಪ್ ലാപ്ടോപ്പ് ল্যাপটপ लॅपटॉप Nova Nova Lite 14 budget student",
+  "metrics": {
+   "ram_gb": 8,
+   "storage_gb": 256,
+   "battery_hours": 7,
+   "perf_score": 35,
+   "screen_inch": 14
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080873",
+  "updated_at": "2026-10-17T08:10:21.098030"
+ },
+ {
+  "id": 12,
+  "name": "Aarav Study Book 14",
+  "category": "laptops",
+  "subcategory": "Laptop",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Study Book 14 is a demo laptop with 8 GB RAM and 256 GB SSD.",
+  "price": 31999,
+  "original_price": 36999,
+  "discount": 14,
+  "rating": 4.2,
+  "review_count": 1320,
+  "stock": 44,
+  "in_stock": true,
+  "images": [
+   "/api/images/12/0.svg",
+   "/api/images/12/1.svg",
+   "/api/images/12/2.svg"
+  ],
+  "image": "/api/images/12/0.svg",
+  "specifications": {
+   "RAM": "8 GB",
+   "Storage": "256 GB SSD",
+   "Battery life": "Up to 8 hours",
+   "Display": "14 inch",
+   "Processor": "Performance score 45/100",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "8 GB RAM",
+   "256 GB SSD",
+   "8 hours battery"
+  ],
+  "advantages": [
+   "8 GB RAM for smooth multitasking"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "student"
+  ],
+  "search_keywords": "laptop notebook ల్యాప్‌టాప్ లాప్‌టాప్ ల్యాప్ టాప్ लैपटॉप லேப்டாப் ಲ್ಯಾಪ್‌ಟಾಪ್ ലാപ്ടോപ്പ് ল্যাপটপ लॅपटॉप Aarav Aarav Study Book 14 student",
+  "metrics": {
+   "ram_gb": 8,
+   "storage_gb": 256,
+   "battery_hours": 8,
+   "perf_score": 45,
+   "screen_inch": 14
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080875",
+  "updated_at": "2026-10-17T08:10:21.098032"
+ },
+ {
+  "id": 13,
+  "name": "Nova Code Pro 15",
+  "category": "laptops",
+  "subcategory": "Laptop",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Code Pro 15 is a demo laptop with 16 GB RAM and 512 GB SSD.",
+  "price": 49999,
+  "original_price": 57999,
+  "discount": 14,
+  "rating": 4.5,
+  "review_count": 960,
+  "stock": 18,
+  "in_stock": true,
+  "images": [
+   "/api/images/13/0.svg",
+   "/api/images/13/1.svg",
+   "/api/images/13/2.svg"
+  ],
+  "image": "/api/images/13/0.svg",
+  "specifications": {
+   "RAM": "16 GB",
+   "Storage": "512 GB SSD",
+   "Battery life": "Up to 9 hours",
+   "Display": "15.6 inch",
+   "Processor": "Performance score 70/100",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "16 GB RAM",
+   "512 GB SSD",
+   "9 hours battery"
+  ],
+  "advantages": [
+   "16 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "coding"
+  ],
+  "search_keywords": "laptop notebook ల్యాప్‌టాప్ లాప్‌టాప్ ల్యాప్ టాప్ लैपटॉप லேப்டாப் ಲ್ಯಾಪ್‌ಟಾಪ್ ലാപ്ടോപ്പ് ল্যাপটপ लॅपटॉप Nova Nova Code Pro 15 coding",
+  "metrics": {
+   "ram_gb": 16,
+   "storage_gb": 512,
+   "battery_hours": 9,
+   "perf_score": 70,
+   "screen_inch": 15.6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080877",
+  "updated_at": "2026-10-17T08:10:21.098033"
+ },
+ {
+  "id": 14,
+  "name": "Zenix Slim Air 14",
+  "category": "laptops",
+  "subcategory": "Laptop",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Slim Air 14 is a demo laptop with 16 GB RAM and 512 GB SSD.",
+  "price": 58999,
+  "original_price": 66999,
+  "discount": 12,
+  "rating": 4.4,
+  "review_count": 540,
+  "stock": 14,
+  "in_stock": true,
+  "images": [
+   "/api/images/14/0.svg",
+   "/api/images/14/1.svg",
+   "/api/images/14/2.svg"
+  ],
+  "image": "/api/images/14/0.svg",
+  "specifications": {
+   "RAM": "16 GB",
+   "Storage": "512 GB SSD",
+   "Battery life": "Up to 12 hours",
+   "Display": "14 inch",
+   "Processor": "Performance score 65/100",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "16 GB RAM",
+   "512 GB SSD",
+   "12 hours battery"
+  ],
+  "advantages": [
+   "16 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "lightweight",
+   "long-battery"
+  ],
+  "search_keywords": "laptop notebook ల్యాప్‌టాప్ లాప్‌టాప్ ల్యాప్ టాప్ लैपटॉप லேப்டாப் ಲ್ಯಾಪ್‌ಟಾಪ್ ലാപ്ടോപ്പ് ল্যাপটপ लॅपटॉप Zenix Zenix Slim Air 14 lightweight long-battery",
+  "metrics": {
+   "ram_gb": 16,
+   "storage_gb": 512,
+   "battery_hours": 12,
+   "perf_score": 65,
+   "screen_inch": 14
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080879",
+  "updated_at": "2026-10-17T08:10:21.098035"
+ },
+ {
+  "id": 15,
+  "name": "Orbit Gamer 15",
+  "category": "laptops",
+  "subcategory": "Laptop",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Gamer 15 is a demo laptop with 16 GB RAM and 1 TB SSD.",
+  "price": 79999,
+  "original_price": 92999,
+  "discount": 14,
+  "rating": 4.5,
+  "review_count": 410,
+  "stock": 9,
+  "in_stock": true,
+  "images": [
+   "/api/images/15/0.svg",
+   "/api/images/15/1.svg",
+   "/api/images/15/2.svg"
+  ],
+  "image": "/api/images/15/0.svg",
+  "specifications": {
+   "RAM": "16 GB",
+   "Storage": "1 TB SSD",
+   "Battery life": "Up to 5 hours",
+   "Display": "15.6 inch",
+   "Processor": "Performance score 90/100",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "16 GB RAM",
+   "1 TB SSD",
+   "5 hours battery"
+  ],
+  "advantages": [
+   "16 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "gaming"
+  ],
+  "search_keywords": "laptop notebook ల్యాప్‌టాప్ లాప్‌టాప్ ల్యాప్ టాప్ लैपटॉप லேப்டாப் ಲ್ಯಾಪ್‌ಟಾಪ್ ലാപ്ടോപ്പ് ল্যাপটপ लॅपटॉप Orbit Orbit Gamer 15 gaming",
+  "metrics": {
+   "ram_gb": 16,
+   "storage_gb": 1024,
+   "battery_hours": 5,
+   "perf_score": 90,
+   "screen_inch": 15.6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080881",
+  "updated_at": "2026-10-17T08:10:21.098037"
+ },
+ {
+  "id": 16,
+  "name": "Aarav Creator 16",
+  "category": "laptops",
+  "subcategory": "Laptop",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Creator 16 is a demo laptop with 32 GB RAM and 1 TB SSD.",
+  "price": 99999,
+  "original_price": 112999,
+  "discount": 12,
+  "rating": 4.6,
+  "review_count": 230,
+  "stock": 6,
+  "in_stock": true,
+  "images": [
+   "/api/images/16/0.svg",
+   "/api/images/16/1.svg",
+   "/api/images/16/2.svg"
+  ],
+  "image": "/api/images/16/0.svg",
+  "specifications": {
+   "RAM": "32 GB",
+   "Storage": "1 TB SSD",
+   "Battery life": "Up to 8 hours",
+   "Display": "16 inch",
+   "Processor": "Performance score 95/100",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "32 GB RAM",
+   "1 TB SSD",
+   "8 hours battery"
+  ],
+  "advantages": [
+   "32 GB RAM for smooth multitasking",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "premium",
+   "editing"
+  ],
+  "search_keywords": "laptop notebook ల్యాప్‌టాప్ లాప్‌టాప్ ల్యాప్ టాప్ लैपटॉप லேப்டாப் ಲ್ಯಾಪ್‌ಟಾಪ್ ലാപ്ടോപ്പ് ল্যাপটপ लॅपटॉप Aarav Aarav Creator 16 premium editing",
+  "metrics": {
+   "ram_gb": 32,
+   "storage_gb": 1024,
+   "battery_hours": 8,
+   "perf_score": 95,
+   "screen_inch": 16
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080884",
+  "updated_at": "2026-10-17T08:10:21.098039"
+ },
+ {
+  "id": 17,
+  "name": "Orbit Bass Pro Headphones",
+  "category": "headphones",
+  "subcategory": "Over-ear",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Bass Pro Headphones - demo product.",
+  "price": 2499,
+  "original_price": 3999,
+  "discount": 38,
+  "rating": 4.3,
+  "review_count": 1840,
+  "stock": 60,
+  "in_stock": true,
+  "images": [
+   "/api/images/17/0.svg",
+   "/api/images/17/1.svg",
+   "/api/images/17/2.svg"
+  ],
+  "image": "/api/images/17/0.svg",
+  "specifications": {
+   "Type": "Over-ear wireless",
+   "Battery": "40 hours",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Type: Over-ear wireless",
+   "Battery: 40 hours",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "Very good sound quality",
+   "Long battery life",
+   "38% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "bass"
+  ],
+  "search_keywords": "headphone headset హెడ్‌ఫోన్స్ హెడ్‌ఫోన్ हेडफोन ஹெட்போன் ಹೆಡ್‌ಫೋನ್ ഹെഡ്ഫോൺ হেডফোন Orbit Orbit Bass Pro Headphones bass",
+  "metrics": {
+   "battery_hours": 40,
+   "sound_score": 8
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080886",
+  "updated_at": "2026-10-17T08:10:21.098041"
+ },
+ {
+  "id": 18,
+  "name": "Aarav Studio Lite Headphones",
+  "category": "headphones",
+  "subcategory": "On-ear",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Studio Lite Headphones - demo product.",
+  "price": 1499,
+  "original_price": 2299,
+  "discount": 35,
+  "rating": 4.0,
+  "review_count": 920,
+  "stock": 75,
+  "in_stock": true,
+  "images": [
+   "/api/images/18/0.svg",
+   "/api/images/18/1.svg",
+   "/api/images/18/2.svg"
+  ],
+  "image": "/api/images/18/0.svg",
+  "specifications": {
+   "Type": "On-ear wired",
+   "Cable": "1.2 m",
+   "Warranty": "6 months"
+  },
+  "features": [
+   "Type: On-ear wired",
+   "Cable: 1.2 m",
+   "Warranty: 6 months"
+  ],
+  "advantages": [
+   "35% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "budget"
+  ],
+  "search_keywords": "headphone headset హెడ్‌ఫోన్స్ హెడ్‌ఫోన్ हेडफोन ஹெட்போன் ಹೆಡ್‌ಫೋನ್ ഹെഡ്ഫോൺ হেডফোন Aarav Aarav Studio Lite Headphones budget",
+  "metrics": {
+   "sound_score": 6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080888",
+  "updated_at": "2026-10-17T08:10:21.098042"
+ },
+ {
+  "id": 19,
+  "name": "Zenix Quiet ANC Headphones",
+  "category": "headphones",
+  "subcategory": "Over-ear",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Quiet ANC Headphones - demo product.",
+  "price": 5999,
+  "original_price": 8999,
+  "discount": 33,
+  "rating": 4.5,
+  "review_count": 610,
+  "stock": 18,
+  "in_stock": true,
+  "images": [
+   "/api/images/19/0.svg",
+   "/api/images/19/1.svg",
+   "/api/images/19/2.svg"
+  ],
+  "image": "/api/images/19/0.svg",
+  "specifications": {
+   "Type": "Over-ear wireless with noise cancelling",
+   "Battery": "30 hours",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Type: Over-ear wireless with noise cancelling",
+   "Battery: 30 hours",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "Very good sound quality",
+   "Long battery life",
+   "33% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "noise-cancelling",
+   "premium"
+  ],
+  "search_keywords": "headphone headset హెడ్‌ఫోన్స్ హెడ్‌ఫోన్ हेडफोन ஹெட்போன் ಹೆಡ್‌ಫೋನ್ ഹെഡ്ഫോൺ হেডফোন Zenix Zenix Quiet ANC Headphones noise-cancelling premium",
+  "metrics": {
+   "battery_hours": 30,
+   "sound_score": 9
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080890",
+  "updated_at": "2026-10-17T08:10:21.098044"
+ },
+ {
+  "id": 20,
+  "name": "Nova Buds Air",
+  "category": "earbuds",
+  "subcategory": "True wireless",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Buds Air - demo product.",
+  "price": 1299,
+  "original_price": 2499,
+  "discount": 48,
+  "rating": 4.1,
+  "review_count": 3320,
+  "stock": 120,
+  "in_stock": true,
+  "images": [
+   "/api/images/20/0.svg",
+   "/api/images/20/1.svg",
+   "/api/images/20/2.svg"
+  ],
+  "image": "/api/images/20/0.svg",
+  "specifications": {
+   "Type": "True wireless",
+   "Battery": "24 hours with case",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Type: True wireless",
+   "Battery: 24 hours with case",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "Long battery life",
+   "48% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "budget"
+  ],
+  "search_keywords": "earbud earphone tws ఇయర్‌బడ్స్ ఇయర్ ఫోన్స్ ईयरबड्स ईयरफोन இயர்பட்ஸ் ಇಯರ್‌ಬಡ್ಸ್ ഇയർബഡ്സ് ইয়ারবাড Nova Nova Buds Air budget",
+  "metrics": {
+   "battery_hours": 24,
+   "sound_score": 6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080892",
+  "updated_at": "2026-10-17T08:10:21.098046"
+ },
+ {
+  "id": 21,
+  "name": "Orbit Buds Pro",
+  "category": "earbuds",
+  "subcategory": "True wireless",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Buds Pro - demo product.",
+  "price": 3499,
+  "original_price": 5499,
+  "discount": 36,
+  "rating": 4.4,
+  "review_count": 1280,
+  "stock": 52,
+  "in_stock": true,
+  "images": [
+   "/api/images/21/0.svg",
+   "/api/images/21/1.svg",
+   "/api/images/21/2.svg"
+  ],
+  "image": "/api/images/21/0.svg",
+  "specifications": {
+   "Type": "True wireless with noise cancelling",
+   "Battery": "36 hours with case",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Type: True wireless with noise cancelling",
+   "Battery: 36 hours with case",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "Very good sound quality",
+   "Long battery life",
+   "36% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "noise-cancelling"
+  ],
+  "search_keywords": "earbud earphone tws ఇయర్‌బడ్స్ ఇయర్ ఫోన్స్ ईयरबड्स ईयरफोन இயர்பட்ஸ் ಇಯರ್‌ಬಡ್ಸ್ ഇയർബഡ്സ് ইয়ারবাড Orbit Orbit Buds Pro noise-cancelling",
+  "metrics": {
+   "battery_hours": 36,
+   "sound_score": 8
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080894",
+  "updated_at": "2026-10-17T08:10:21.098048"
+ },
+ {
+  "id": 22,
+  "name": "Zenix Neckband Bass",
+  "category": "earbuds",
+  "subcategory": "Neckband",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Neckband Bass - demo product.",
+  "price": 899,
+  "original_price": 1499,
+  "discount": 40,
+  "rating": 4.0,
+  "review_count": 4100,
+  "stock": 90,
+  "in_stock": true,
+  "images": [
+   "/api/images/22/0.svg",
+   "/api/images/22/1.svg",
+   "/api/images/22/2.svg"
+  ],
+  "image": "/api/images/22/0.svg",
+  "specifications": {
+   "Type": "Wireless neckband",
+   "Battery": "30 hours",
+   "Warranty": "6 months"
+  },
+  "features": [
+   "Type: Wireless neckband",
+   "Battery: 30 hours",
+   "Warranty: 6 months"
+  ],
+  "advantages": [
+   "Long battery life",
+   "40% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "budget",
+   "long-battery"
+  ],
+  "search_keywords": "earbud earphone tws ఇయర్‌బడ్స్ ఇయర్ ఫోన్స్ ईयरबड्स ईयरफोन இயர்பட்ஸ் ಇಯರ್‌ಬಡ್ಸ್ ഇയർബഡ്സ് ইয়ারবাড Zenix Zenix Neckband Bass budget long-battery",
+  "metrics": {
+   "battery_hours": 30,
+   "sound_score": 6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080896",
+  "updated_at": "2026-10-17T08:10:21.098050"
+ },
+ {
+  "id": 23,
+  "name": "Nova Fit Watch 2",
+  "category": "smartwatches",
+  "subcategory": "Fitness",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Fit Watch 2 - demo product.",
+  "price": 2999,
+  "original_price": 4999,
+  "discount": 40,
+  "rating": 4.2,
+  "review_count": 2190,
+  "stock": 70,
+  "in_stock": true,
+  "images": [
+   "/api/images/23/0.svg",
+   "/api/images/23/1.svg",
+   "/api/images/23/2.svg"
+  ],
+  "image": "/api/images/23/0.svg",
+  "specifications": {
+   "Display": "1.7 inch",
+   "Battery": "7 days",
+   "Features": "Heart rate, steps, sleep tracking",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Display: 1.7 inch",
+   "Battery: 7 days",
+   "Features: Heart rate, steps, sleep tracking",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "Long battery life",
+   "40% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "fitness"
+  ],
+  "search_keywords": "smartwatch smart watch fitness band స్మార్ట్ వాచ్ स्मार्टवॉच स्मार्ट वॉच ஸ்மார்ட் வாட்ச் ಸ್ಮಾರ್ಟ್ ವಾಚ್ സ്മാർട്ട് വാച്ച് স্মার্ট ওয়াচ Nova Nova Fit Watch 2 fitness",
+  "metrics": {
+   "battery_hours": 168
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080898",
+  "updated_at": "2026-10-17T08:10:21.098051"
+ },
+ {
+  "id": 24,
+  "name": "Aarav Call Watch",
+  "category": "smartwatches",
+  "subcategory": "Calling",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Call Watch - demo product.",
+  "price": 3999,
+  "original_price": 6499,
+  "discount": 38,
+  "rating": 4.1,
+  "review_count": 1330,
+  "stock": 40,
+  "in_stock": true,
+  "images": [
+   "/api/images/24/0.svg",
+   "/api/images/24/1.svg",
+   "/api/images/24/2.svg"
+  ],
+  "image": "/api/images/24/0.svg",
+  "specifications": {
+   "Display": "1.83 inch",
+   "Battery": "5 days",
+   "Features": "Bluetooth calling, heart rate",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Display: 1.83 inch",
+   "Battery: 5 days",
+   "Features: Bluetooth calling, heart rate",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "Long battery life",
+   "38% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "calling"
+  ],
+  "search_keywords": "smartwatch smart watch fitness band స్మార్ట్ వాచ్ स्मार्टवॉच स्मार्ट वॉच ஸ்மார்ட் வாட்ச் ಸ್ಮಾರ್ಟ್ ವಾಚ್ സ്മാർട്ട് വാച്ച് স্মার্ট ওয়াচ Aarav Aarav Call Watch calling",
+  "metrics": {
+   "battery_hours": 120
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080901",
+  "updated_at": "2026-10-17T08:10:21.098053"
+ },
+ {
+  "id": 25,
+  "name": "Orbit Active Pro",
+  "category": "smartwatches",
+  "subcategory": "Premium",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Active Pro - demo product.",
+  "price": 8999,
+  "original_price": 12999,
+  "discount": 31,
+  "rating": 4.5,
+  "review_count": 540,
+  "stock": 20,
+  "in_stock": true,
+  "images": [
+   "/api/images/25/0.svg",
+   "/api/images/25/1.svg",
+   "/api/images/25/2.svg"
+  ],
+  "image": "/api/images/25/0.svg",
+  "specifications": {
+   "Display": "1.4 inch AMOLED",
+   "Battery": "10 days",
+   "Features": "GPS, heart rate, sleep",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Display: 1.4 inch AMOLED",
+   "Battery: 10 days",
+   "Features: GPS, heart rate, sleep",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "Long battery life",
+   "31% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "premium",
+   "fitness"
+  ],
+  "search_keywords": "smartwatch smart watch fitness band స్మార్ట్ వాచ్ स्मार्टवॉच स्मार्ट वॉच ஸ்மார்ட் வாட்ச் ಸ್ಮಾರ್ಟ್ ವಾಚ್ സ്മാർട്ട് വാച്ച് স্মার্ট ওয়াচ Orbit Orbit Active Pro premium fitness",
+  "metrics": {
+   "battery_hours": 240
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080903",
+  "updated_at": "2026-10-17T08:10:21.098055"
+ },
+ {
+  "id": 26,
+  "name": "Aarav 32 HD Smart TV",
+  "category": "tvs",
+  "subcategory": "32 inch",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav 32 HD Smart TV - demo product.",
+  "price": 10999,
+  "original_price": 16999,
+  "discount": 35,
+  "rating": 4.1,
+  "review_count": 5210,
+  "stock": 40,
+  "in_stock": true,
+  "images": [
+   "/api/images/26/0.svg",
+   "/api/images/26/1.svg",
+   "/api/images/26/2.svg"
+  ],
+  "image": "/api/images/26/0.svg",
+  "specifications": {
+   "Screen": "32 inch HD",
+   "Smart": "Yes",
+   "Warranty": "1 year",
+   "Sound": "20 W"
+  },
+  "features": [
+   "Screen: 32 inch HD",
+   "Smart: Yes",
+   "Warranty: 1 year",
+   "Sound: 20 W"
+  ],
+  "advantages": [
+   "35% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "budget"
+  ],
+  "search_keywords": "tv television టీవీ టివి टीवी टेलीविजन டிவி ಟಿವಿ ടിവി টিভি टीव्ही Aarav Aarav 32 HD Smart TV budget",
+  "metrics": {
+   "screen_inch": 32,
+   "sound_score": 6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080905",
+  "updated_at": "2026-10-17T08:10:21.098057"
+ },
+ {
+  "id": 27,
+  "name": "Nova 43 4K Smart TV",
+  "category": "tvs",
+  "subcategory": "43 inch",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova 43 4K Smart TV - demo product.",
+  "price": 24999,
+  "original_price": 36999,
+  "discount": 32,
+  "rating": 4.4,
+  "review_count": 2980,
+  "stock": 28,
+  "in_stock": true,
+  "images": [
+   "/api/images/27/0.svg",
+   "/api/images/27/1.svg",
+   "/api/images/27/2.svg"
+  ],
+  "image": "/api/images/27/0.svg",
+  "specifications": {
+   "Screen": "43 inch 4K",
+   "Smart": "Yes",
+   "Warranty": "1 year",
+   "Sound": "30 W"
+  },
+  "features": [
+   "Screen: 43 inch 4K",
+   "Smart: Yes",
+   "Warranty: 1 year",
+   "Sound: 30 W"
+  ],
+  "advantages": [
+   "32% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "4k"
+  ],
+  "search_keywords": "tv television టీవీ టివి टीवी टेलीविजन டிவி ಟಿವಿ ടിവി টিভি टीव्ही Nova Nova 43 4K Smart TV 4k",
+  "metrics": {
+   "screen_inch": 43,
+   "sound_score": 7
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080907",
+  "updated_at": "2026-10-17T08:10:21.098059"
+ },
+ {
+  "id": 28,
+  "name": "Zenix 50 4K Smart TV",
+  "category": "tvs",
+  "subcategory": "50 inch",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix 50 4K Smart TV - demo product.",
+  "price": 31999,
+  "original_price": 44999,
+  "discount": 29,
+  "rating": 4.3,
+  "review_count": 1780,
+  "stock": 19,
+  "in_stock": true,
+  "images": [
+   "/api/images/28/0.svg",
+   "/api/images/28/1.svg",
+   "/api/images/28/2.svg"
+  ],
+  "image": "/api/images/28/0.svg",
+  "specifications": {
+   "Screen": "50 inch 4K",
+   "Smart": "Yes",
+   "Warranty": "1 year",
+   "Sound": "40 W"
+  },
+  "features": [
+   "Screen: 50 inch 4K",
+   "Smart: Yes",
+   "Warranty: 1 year",
+   "Sound: 40 W"
+  ],
+  "advantages": [
+   "Very good sound quality",
+   "29% discount on the original price"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "4k"
+  ],
+  "search_keywords": "tv television టీవీ టివి टीवी टेलीविजन டிவி ಟಿವಿ ടിവി টিভি टीव्ही Zenix Zenix 50 4K Smart TV 4k",
+  "metrics": {
+   "screen_inch": 50,
+   "sound_score": 8
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080909",
+  "updated_at": "2026-10-17T08:10:21.098060"
+ },
+ {
+  "id": 29,
+  "name": "Orbit 55 QLED Smart TV",
+  "category": "tvs",
+  "subcategory": "55 inch",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit 55 QLED Smart TV - demo product.",
+  "price": 47999,
+  "original_price": 69999,
+  "discount": 31,
+  "rating": 4.5,
+  "review_count": 860,
+  "stock": 11,
+  "in_stock": true,
+  "images": [
+   "/api/images/29/0.svg",
+   "/api/images/29/1.svg",
+   "/api/images/29/2.svg"
+  ],
+  "image": "/api/images/29/0.svg",
+  "specifications": {
+   "Screen": "55 inch QLED 4K",
+   "Smart": "Yes",
+   "Warranty": "2 years",
+   "Sound": "50 W"
+  },
+  "features": [
+   "Screen: 55 inch QLED 4K",
+   "Smart: Yes",
+   "Warranty: 2 years",
+   "Sound: 50 W"
+  ],
+  "advantages": [
+   "Very good sound quality",
+   "31% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "premium"
+  ],
+  "search_keywords": "tv television టీవీ టివి टीवी टेलीविजन டிவி ಟಿವಿ ടിവി টিভি टीव्ही Orbit Orbit 55 QLED Smart TV premium",
+  "metrics": {
+   "screen_inch": 55,
+   "sound_score": 9
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080911",
+  "updated_at": "2026-10-17T08:10:21.098062"
+ },
+ {
+  "id": 30,
+  "name": "Aarav Snap M200 Camera",
+  "category": "cameras",
+  "subcategory": "Mirrorless",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Snap M200 Camera - demo product.",
+  "price": 42999,
+  "original_price": 49999,
+  "discount": 14,
+  "rating": 4.4,
+  "review_count": 310,
+  "stock": 8,
+  "in_stock": true,
+  "images": [
+   "/api/images/30/0.svg",
+   "/api/images/30/1.svg",
+   "/api/images/30/2.svg"
+  ],
+  "image": "/api/images/30/0.svg",
+  "specifications": {
+   "Type": "Mirrorless",
+   "Megapixels": "24 MP",
+   "Video": "4K",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Type: Mirrorless",
+   "Megapixels: 24 MP",
+   "Video: 4K",
+   "Warranty: 2 years"
+  ],
+  "advantages": [
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "photography"
+  ],
+  "search_keywords": "dslr mirrorless digital camera camcorder action camera డిజిటల్ కెమెరా डिजिटल कैमरा டிஜிட்டல் கேமரா ಡಿಜಿಟಲ್ ಕ್ಯಾಮೆರಾ ഡിജിറ്റൽ ക്യാമറ ডিজিটাল ক্যামেরা Aarav Aarav Snap M200 Camera photography",
+  "metrics": {
+   "camera_mp": 24
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080913",
+  "updated_at": "2026-10-17T08:10:21.098064"
+ },
+ {
+  "id": 31,
+  "name": "Nova Action Cam 4K",
+  "category": "cameras",
+  "subcategory": "Action",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Action Cam 4K - demo product.",
+  "price": 9999,
+  "original_price": 14999,
+  "discount": 33,
+  "rating": 4.2,
+  "review_count": 620,
+  "stock": 26,
+  "in_stock": true,
+  "images": [
+   "/api/images/31/0.svg",
+   "/api/images/31/1.svg",
+   "/api/images/31/2.svg"
+  ],
+  "image": "/api/images/31/0.svg",
+  "specifications": {
+   "Type": "Action camera",
+   "Megapixels": "16 MP",
+   "Video": "4K",
+   "Waterproof": "10 m",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Type: Action camera",
+   "Megapixels: 16 MP",
+   "Video: 4K",
+   "Waterproof: 10 m"
+  ],
+  "advantages": [
+   "33% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "travel"
+  ],
+  "search_keywords": "dslr mirrorless digital camera camcorder action camera డిజిటల్ కెమెరా डिजिटल कैमरा டிஜிட்டல் கேமரா ಡಿಜಿಟಲ್ ಕ್ಯಾಮೆರಾ ഡിജിറ്റൽ ക്യാമറ ডিজিটাল ক্যামেরা Nova Nova Action Cam 4K travel",
+  "metrics": {
+   "camera_mp": 16
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080915",
+  "updated_at": "2026-10-17T08:10:21.098066"
+ },
+ {
+  "id": 32,
+  "name": "Aarav Cool 190L Refrigerator",
+  "category": "refrigerators",
+  "subcategory": "Single door",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Cool 190L Refrigerator - demo product.",
+  "price": 13499,
+  "original_price": 16999,
+  "discount": 21,
+  "rating": 4.1,
+  "review_count": 2760,
+  "stock": 30,
+  "in_stock": true,
+  "images": [
+   "/api/images/32/0.svg",
+   "/api/images/32/1.svg",
+   "/api/images/32/2.svg"
+  ],
+  "image": "/api/images/32/0.svg",
+  "specifications": {
+   "Capacity": "190 L",
+   "Type": "Single door",
+   "Energy rating": "3 star",
+   "Warranty": "1 year + 10 years compressor"
+  },
+  "features": [
+   "Capacity: 190 L",
+   "Type: Single door",
+   "Energy rating: 3 star",
+   "Warranty: 1 year + 10 years compressor"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "small-family"
+  ],
+  "search_keywords": "refrigerator fridge ఫ్రిజ్ ఫ్రిడ్జ్ రిఫ్రిజిరేటర్ फ्रिज फ्रीज रेफ्रिजरेटर ஃபிரிட்ஜ் ஃப்ரிட்ஜ் குளிர்சாதன ಫ್ರಿಜ್ ഫ്രിഡ്ജ് ফ্রিজ Aarav Aarav Cool 190L Refrigerator small-family",
+  "metrics": {
+   "capacity": 190,
+   "capacity_unit": "L",
+   "star_rating": 3
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080918",
+  "updated_at": "2026-10-17T08:10:21.098067"
+ },
+ {
+  "id": 33,
+  "name": "Nova Frost 260L Refrigerator",
+  "category": "refrigerators",
+  "subcategory": "Double door",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Frost 260L Refrigerator - demo product.",
+  "price": 24999,
+  "original_price": 31999,
+  "discount": 22,
+  "rating": 4.4,
+  "review_count": 1890,
+  "stock": 20,
+  "in_stock": true,
+  "images": [
+   "/api/images/33/0.svg",
+   "/api/images/33/1.svg",
+   "/api/images/33/2.svg"
+  ],
+  "image": "/api/images/33/0.svg",
+  "specifications": {
+   "Capacity": "260 L",
+   "Type": "Double door",
+   "Energy rating": "3 star",
+   "Warranty": "1 year + 10 years compressor"
+  },
+  "features": [
+   "Capacity: 260 L",
+   "Type: Double door",
+   "Energy rating: 3 star",
+   "Warranty: 1 year + 10 years compressor"
+  ],
+  "advantages": [
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "family"
+  ],
+  "search_keywords": "refrigerator fridge ఫ్రిజ్ ఫ్రిడ్జ్ రిఫ్రిజిరేటర్ फ्रिज फ्रीज रेफ्रिजरेटर ஃபிரிட்ஜ் ஃப்ரிட்ஜ் குளிர்சாதன ಫ್ರಿಜ್ ഫ്രിഡ്ജ് ফ্রিজ Nova Nova Frost 260L Refrigerator family",
+  "metrics": {
+   "capacity": 260,
+   "capacity_unit": "L",
+   "star_rating": 3
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080920",
+  "updated_at": "2026-10-17T08:10:21.098069"
+ },
+ {
+  "id": 34,
+  "name": "Zenix Frost 340L Refrigerator",
+  "category": "refrigerators",
+  "subcategory": "Double door",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Frost 340L Refrigerator - demo product.",
+  "price": 33999,
+  "original_price": 42999,
+  "discount": 21,
+  "rating": 4.3,
+  "review_count": 1240,
+  "stock": 14,
+  "in_stock": true,
+  "images": [
+   "/api/images/34/0.svg",
+   "/api/images/34/1.svg",
+   "/api/images/34/2.svg"
+  ],
+  "image": "/api/images/34/0.svg",
+  "specifications": {
+   "Capacity": "340 L",
+   "Type": "Double door",
+   "Energy rating": "4 star",
+   "Warranty": "1 year + 10 years compressor"
+  },
+  "features": [
+   "Capacity: 340 L",
+   "Type: Double door",
+   "Energy rating: 4 star",
+   "Warranty: 1 year + 10 years compressor"
+  ],
+  "advantages": [
+   "Saves electricity (4 star)"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "family",
+   "energy-saving"
+  ],
+  "search_keywords": "refrigerator fridge ఫ్రిజ్ ఫ్రిడ్జ్ రిఫ్రిజిరేటర్ फ्रिज फ्रीज रेफ्रिजरेटर ஃபிரிட்ஜ் ஃப்ரிட்ஜ் குளிர்சாதன ಫ್ರಿಜ್ ഫ്രിഡ്ജ് ফ্রিজ Zenix Zenix Frost 340L Refrigerator family energy-saving",
+  "metrics": {
+   "capacity": 340,
+   "capacity_unit": "L",
+   "star_rating": 4
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080922",
+  "updated_at": "2026-10-17T08:10:21.098071"
+ },
+ {
+  "id": 35,
+  "name": "Orbit Grand 550L Refrigerator",
+  "category": "refrigerators",
+  "subcategory": "Side by side",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Grand 550L Refrigerator - demo product.",
+  "price": 74999,
+  "original_price": 94999,
+  "discount": 21,
+  "rating": 4.5,
+  "review_count": 330,
+  "stock": 5,
+  "in_stock": true,
+  "images": [
+   "/api/images/35/0.svg",
+   "/api/images/35/1.svg",
+   "/api/images/35/2.svg"
+  ],
+  "image": "/api/images/35/0.svg",
+  "specifications": {
+   "Capacity": "550 L",
+   "Type": "Side by side",
+   "Energy rating": "3 star",
+   "Warranty": "1 year + 10 years compressor"
+  },
+  "features": [
+   "Capacity: 550 L",
+   "Type: Side by side",
+   "Energy rating: 3 star",
+   "Warranty: 1 year + 10 years compressor"
+  ],
+  "advantages": [
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products",
+   "Limited stock (5 left)"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "large-family",
+   "premium"
+  ],
+  "search_keywords": "refrigerator fridge ఫ్రిజ్ ఫ్రిడ్జ్ రిఫ్రిజిరేటర్ फ्रिज फ्रीज रेफ्रिजरेटर ஃபிரிட்ஜ் ஃப்ரிட்ஜ் குளிர்சாதன ಫ್ರಿಜ್ ഫ്രിഡ്ജ് ফ্রিজ Orbit Orbit Grand 550L Refrigerator large-family premium",
+  "metrics": {
+   "capacity": 550,
+   "capacity_unit": "L",
+   "star_rating": 3
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080924",
+  "updated_at": "2026-10-17T08:10:21.098073"
+ },
+ {
+  "id": 36,
+  "name": "Aarav Wash 6 Semi-Auto",
+  "category": "washing-machines",
+  "subcategory": "Semi-automatic",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Wash 6 Semi-Auto - demo product.",
+  "price": 8999,
+  "original_price": 11999,
+  "discount": 25,
+  "rating": 4.0,
+  "review_count": 3310,
+  "stock": 45,
+  "in_stock": true,
+  "images": [
+   "/api/images/36/0.svg",
+   "/api/images/36/1.svg",
+   "/api/images/36/2.svg"
+  ],
+  "image": "/api/images/36/0.svg",
+  "specifications": {
+   "Capacity": "6 KG",
+   "Type": "Semi-automatic top load",
+   "Spin speed": "1300 RPM",
+   "Energy rating": "3 star",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Capacity: 6 KG",
+   "Type: Semi-automatic top load",
+   "Spin speed: 1300 RPM",
+   "Energy rating: 3 star"
+  ],
+  "advantages": [
+   "25% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "budget",
+   "easy-to-use"
+  ],
+  "search_keywords": "washing machine washer వాషింగ్ మెషీన్ వాషింగ్ మెషిన్ వాషింగ్ మిషన్ वॉशिंग मशीन वाशिंग मशीन वॉशिंग मशिन வாஷிங் மெஷின் வாஷிங் மிஷின் ವಾಷಿಂಗ್ ಮೆಷಿನ್ ಒಗೆಯುವ ಯಂತ್ರ വാഷിംഗ് മെഷീൻ ওয়াশিং মেশিন Aarav Aarav Wash 6 Semi-Auto budget easy-to-use",
+  "metrics": {
+   "capacity": 6,
+   "capacity_unit": "KG",
+   "star_rating": 3
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080926",
+  "updated_at": "2026-10-17T08:10:21.098075"
+ },
+ {
+  "id": 37,
+  "name": "Nova Wash 7 Top Load",
+  "category": "washing-machines",
+  "subcategory": "Top load",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Wash 7 Top Load - demo product.",
+  "price": 15999,
+  "original_price": 20999,
+  "discount": 24,
+  "rating": 4.3,
+  "review_count": 2540,
+  "stock": 34,
+  "in_stock": true,
+  "images": [
+   "/api/images/37/0.svg",
+   "/api/images/37/1.svg",
+   "/api/images/37/2.svg"
+  ],
+  "image": "/api/images/37/0.svg",
+  "specifications": {
+   "Capacity": "7 KG",
+   "Type": "Fully automatic top load",
+   "Spin speed": "740 RPM",
+   "Energy rating": "5 star",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Capacity: 7 KG",
+   "Type: Fully automatic top load",
+   "Spin speed: 740 RPM",
+   "Energy rating: 5 star"
+  ],
+  "advantages": [
+   "Saves electricity (5 star)"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "family",
+   "energy-saving"
+  ],
+  "search_keywords": "washing machine washer వాషింగ్ మెషీన్ వాషింగ్ మెషిన్ వాషింగ్ మిషన్ वॉशिंग मशीन वाशिंग मशीन वॉशिंग मशिन வாஷிங் மெஷின் வாஷிங் மிஷின் ವಾಷಿಂಗ್ ಮೆಷಿನ್ ಒಗೆಯುವ ಯಂತ್ರ വാഷിംഗ് മെഷീൻ ওয়াশিং মেশিন Nova Nova Wash 7 Top Load family energy-saving",
+  "metrics": {
+   "capacity": 7,
+   "capacity_unit": "KG",
+   "star_rating": 5
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080928",
+  "updated_at": "2026-10-17T08:10:21.098076"
+ },
+ {
+  "id": 38,
+  "name": "Zenix Wash 8 Front Load",
+  "category": "washing-machines",
+  "subcategory": "Front load",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Wash 8 Front Load - demo product.",
+  "price": 24999,
+  "original_price": 33999,
+  "discount": 26,
+  "rating": 4.4,
+  "review_count": 1760,
+  "stock": 21,
+  "in_stock": true,
+  "images": [
+   "/api/images/38/0.svg",
+   "/api/images/38/1.svg",
+   "/api/images/38/2.svg"
+  ],
+  "image": "/api/images/38/0.svg",
+  "specifications": {
+   "Capacity": "8 KG",
+   "Type": "Fully automatic front load",
+   "Spin speed": "1200 RPM",
+   "Energy rating": "5 star",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Capacity: 8 KG",
+   "Type: Fully automatic front load",
+   "Spin speed: 1200 RPM",
+   "Energy rating: 5 star"
+  ],
+  "advantages": [
+   "Saves electricity (5 star)",
+   "26% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "family",
+   "energy-saving"
+  ],
+  "search_keywords": "washing machine washer వాషింగ్ మెషీన్ వాషింగ్ మెషిన్ వాషింగ్ మిషన్ वॉशिंग मशीन वाशिंग मशीन वॉशिंग मशिन வாஷிங் மெஷின் வாஷிங் மிஷின் ವಾಷಿಂಗ್ ಮೆಷಿನ್ ಒಗೆಯುವ ಯಂತ್ರ വാഷിംഗ് മെഷീൻ ওয়াশিং মেশিন Zenix Zenix Wash 8 Front Load family energy-saving",
+  "metrics": {
+   "capacity": 8,
+   "capacity_unit": "KG",
+   "star_rating": 5
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080930",
+  "updated_at": "2026-10-17T08:10:21.098078"
+ },
+ {
+  "id": 39,
+  "name": "Orbit Wash 9 Front Load",
+  "category": "washing-machines",
+  "subcategory": "Front load",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Wash 9 Front Load - demo product.",
+  "price": 36999,
+  "original_price": 49999,
+  "discount": 26,
+  "rating": 4.5,
+  "review_count": 690,
+  "stock": 10,
+  "in_stock": true,
+  "images": [
+   "/api/images/39/0.svg",
+   "/api/images/39/1.svg",
+   "/api/images/39/2.svg"
+  ],
+  "image": "/api/images/39/0.svg",
+  "specifications": {
+   "Capacity": "9 KG",
+   "Type": "Fully automatic front load",
+   "Spin speed": "1400 RPM",
+   "Energy rating": "5 star",
+   "Warranty": "3 years"
+  },
+  "features": [
+   "Capacity: 9 KG",
+   "Type: Fully automatic front load",
+   "Spin speed: 1400 RPM",
+   "Energy rating: 5 star"
+  ],
+  "advantages": [
+   "Saves electricity (5 star)",
+   "26% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "large-family",
+   "premium"
+  ],
+  "search_keywords": "washing machine washer వాషింగ్ మెషీన్ వాషింగ్ మెషిన్ వాషింగ్ మిషన్ वॉशिंग मशीन वाशिंग मशीन वॉशिंग मशिन வாஷிங் மெஷின் வாஷிங் மிஷின் ವಾಷಿಂಗ್ ಮೆಷಿನ್ ಒಗೆಯುವ ಯಂತ್ರ വാഷിംഗ് മെഷീൻ ওয়াশিং মেশিন Orbit Orbit Wash 9 Front Load large-family premium",
+  "metrics": {
+   "capacity": 9,
+   "capacity_unit": "KG",
+   "star_rating": 5
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080932",
+  "updated_at": "2026-10-17T08:10:21.098080"
+ },
+ {
+  "id": 40,
+  "name": "Aarav Breeze 1T Split AC",
+  "category": "air-conditioners",
+  "subcategory": "Split 1 ton",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Breeze 1T Split AC - demo product.",
+  "price": 28999,
+  "original_price": 38999,
+  "discount": 26,
+  "rating": 4.1,
+  "review_count": 1980,
+  "stock": 25,
+  "in_stock": true,
+  "images": [
+   "/api/images/40/0.svg",
+   "/api/images/40/1.svg",
+   "/api/images/40/2.svg"
+  ],
+  "image": "/api/images/40/0.svg",
+  "specifications": {
+   "Capacity": "1 ton",
+   "Type": "Split",
+   "Energy rating": "3 star",
+   "Suits room size": "up to 110 sq ft",
+   "Warranty": "1 year + 5 years compressor"
+  },
+  "features": [
+   "Capacity: 1 ton",
+   "Type: Split",
+   "Energy rating: 3 star",
+   "Suits room size: up to 110 sq ft"
+  ],
+  "advantages": [
+   "26% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "small-room"
+  ],
+  "search_keywords": "air conditioner ac ఏసీ ఎయిర్ కండీషనర్ एसी एयर कंडीशनर ஏசி ಎಸಿ എസി এসি Aarav Aarav Breeze 1T Split AC small-room",
+  "metrics": {
+   "star_rating": 3
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080934",
+  "updated_at": "2026-10-17T08:10:21.098082"
+ },
+ {
+  "id": 41,
+  "name": "Nova Chill 1.5T Inverter AC",
+  "category": "air-conditioners",
+  "subcategory": "Split 1.5 ton",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Chill 1.5T Inverter AC - demo product.",
+  "price": 38999,
+  "original_price": 52999,
+  "discount": 26,
+  "rating": 4.4,
+  "review_count": 1450,
+  "stock": 16,
+  "in_stock": true,
+  "images": [
+   "/api/images/41/0.svg",
+   "/api/images/41/1.svg",
+   "/api/images/41/2.svg"
+  ],
+  "image": "/api/images/41/0.svg",
+  "specifications": {
+   "Capacity": "1.5 ton",
+   "Type": "Inverter split",
+   "Energy rating": "5 star",
+   "Suits room size": "up to 180 sq ft",
+   "Warranty": "1 year + 10 years compressor"
+  },
+  "features": [
+   "Capacity: 1.5 ton",
+   "Type: Inverter split",
+   "Energy rating: 5 star",
+   "Suits room size: up to 180 sq ft"
+  ],
+  "advantages": [
+   "Saves electricity (5 star)",
+   "26% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "energy-saving",
+   "family"
+  ],
+  "search_keywords": "air conditioner ac ఏసీ ఎయిర్ కండీషనర్ एसी एयर कंडीशनर ஏசி ಎಸಿ എസി এসি Nova Nova Chill 1.5T Inverter AC energy-saving family",
+  "metrics": {
+   "star_rating": 5
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080937",
+  "updated_at": "2026-10-17T08:10:21.098084"
+ },
+ {
+  "id": 42,
+  "name": "Zenix Cool 1.5T Split AC",
+  "category": "air-conditioners",
+  "subcategory": "Split 1.5 ton",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Cool 1.5T Split AC - demo product.",
+  "price": 33999,
+  "original_price": 45999,
+  "discount": 26,
+  "rating": 4.2,
+  "review_count": 890,
+  "stock": 12,
+  "in_stock": true,
+  "images": [
+   "/api/images/42/0.svg",
+   "/api/images/42/1.svg",
+   "/api/images/42/2.svg"
+  ],
+  "image": "/api/images/42/0.svg",
+  "specifications": {
+   "Capacity": "1.5 ton",
+   "Type": "Split",
+   "Energy rating": "3 star",
+   "Suits room size": "up to 180 sq ft",
+   "Warranty": "1 year + 5 years compressor"
+  },
+  "features": [
+   "Capacity: 1.5 ton",
+   "Type: Split",
+   "Energy rating: 3 star",
+   "Suits room size: up to 180 sq ft"
+  ],
+  "advantages": [
+   "26% discount on the original price"
+  ],
+  "disadvantages": [
+   "Higher price compared with similar products"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "family"
+  ],
+  "search_keywords": "air conditioner ac ఏసీ ఎయిర్ కండీషనర్ एसी एयर कंडीशनर ஏசி ಎಸಿ എസി এসি Zenix Zenix Cool 1.5T Split AC family",
+  "metrics": {
+   "star_rating": 3
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080939",
+  "updated_at": "2026-10-17T08:10:21.098085"
+ },
+ {
+  "id": 43,
+  "name": "Aarav Mix 500W 3 Jar",
+  "category": "mixers",
+  "subcategory": "Mixer grinder",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Mix 500W 3 Jar - demo product.",
+  "price": 2299,
+  "original_price": 3499,
+  "discount": 34,
+  "rating": 4.2,
+  "review_count": 6120,
+  "stock": 85,
+  "in_stock": true,
+  "images": [
+   "/api/images/43/0.svg",
+   "/api/images/43/1.svg",
+   "/api/images/43/2.svg"
+  ],
+  "image": "/api/images/43/0.svg",
+  "specifications": {
+   "Power": "500 W",
+   "Jars": "3",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Power: 500 W",
+   "Jars: 3",
+   "Warranty: 2 years"
+  ],
+  "advantages": [
+   "34% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "kitchen",
+   "budget"
+  ],
+  "search_keywords": "mixer grinder mixie మిక్సర్ మిక్సీ గ్రైండర్ मिक्सर मिक्सी மிக்ஸி மிக்சர் ಮಿಕ್ಸರ್ ಮಿಕ್ಸಿ മിക്സി মিক্সার Aarav Aarav Mix 500W 3 Jar kitchen budget",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080941",
+  "updated_at": "2026-10-17T08:10:21.098087"
+ },
+ {
+  "id": 44,
+  "name": "Nova Mix 750W 4 Jar",
+  "category": "mixers",
+  "subcategory": "Mixer grinder",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Mix 750W 4 Jar - demo product.",
+  "price": 3999,
+  "original_price": 5999,
+  "discount": 33,
+  "rating": 4.4,
+  "review_count": 3490,
+  "stock": 50,
+  "in_stock": true,
+  "images": [
+   "/api/images/44/0.svg",
+   "/api/images/44/1.svg",
+   "/api/images/44/2.svg"
+  ],
+  "image": "/api/images/44/0.svg",
+  "specifications": {
+   "Power": "750 W",
+   "Jars": "4",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Power: 750 W",
+   "Jars: 4",
+   "Warranty: 2 years"
+  ],
+  "advantages": [
+   "33% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "kitchen",
+   "family"
+  ],
+  "search_keywords": "mixer grinder mixie మిక్సర్ మిక్సీ గ్రైండర్ मिक्सर मिक्सी மிக்ஸி மிக்சர் ಮಿಕ್ಸರ್ ಮಿಕ್ಸಿ മിക്സി মিক্সার Nova Nova Mix 750W 4 Jar kitchen family",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080943",
+  "updated_at": "2026-10-17T08:10:21.098089"
+ },
+ {
+  "id": 45,
+  "name": "Orbit Wet Grinder 2L",
+  "category": "mixers",
+  "subcategory": "Mixer grinder",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Wet Grinder 2L - demo product.",
+  "price": 5499,
+  "original_price": 7499,
+  "discount": 27,
+  "rating": 4.3,
+  "review_count": 1210,
+  "stock": 30,
+  "in_stock": true,
+  "images": [
+   "/api/images/45/0.svg",
+   "/api/images/45/1.svg",
+   "/api/images/45/2.svg"
+  ],
+  "image": "/api/images/45/0.svg",
+  "specifications": {
+   "Capacity": "2 L",
+   "Use": "Idli and dosa batter",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Capacity: 2 L",
+   "Use: Idli and dosa batter",
+   "Warranty: 2 years"
+  ],
+  "advantages": [
+   "27% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "kitchen",
+   "batter"
+  ],
+  "search_keywords": "mixer grinder mixie మిక్సర్ మిక్సీ గ్రైండర్ मिक्सर मिक्सी மிக்ஸி மிக்சர் ಮಿಕ್ಸರ್ ಮಿಕ್ಸಿ മിക്സി মিক্সার Orbit Orbit Wet Grinder 2L kitchen batter",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080945",
+  "updated_at": "2026-10-17T08:10:21.098091"
+ },
+ {
+  "id": 46,
+  "name": "Aarav Solo 20L Microwave",
+  "category": "microwave-ovens",
+  "subcategory": "Solo",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Solo 20L Microwave - demo product.",
+  "price": 5499,
+  "original_price": 7499,
+  "discount": 27,
+  "rating": 4.1,
+  "review_count": 2210,
+  "stock": 36,
+  "in_stock": true,
+  "images": [
+   "/api/images/46/0.svg",
+   "/api/images/46/1.svg",
+   "/api/images/46/2.svg"
+  ],
+  "image": "/api/images/46/0.svg",
+  "specifications": {
+   "Capacity": "20 L",
+   "Type": "Solo",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Capacity: 20 L",
+   "Type: Solo",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "27% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "small-family",
+   "easy-to-use"
+  ],
+  "search_keywords": "microwave oven మైక్రోవేవ్ माइक्रोवेव மைக்ரோவேவ் ಮೈಕ್ರೋವೇವ್ മൈക്രോവേവ് মাইক্রোওয়েভ Aarav Aarav Solo 20L Microwave small-family easy-to-use",
+  "metrics": {
+   "capacity": 20,
+   "capacity_unit": "L"
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080949",
+  "updated_at": "2026-10-17T08:10:21.098093"
+ },
+ {
+  "id": 47,
+  "name": "Nova Convection 30L Microwave",
+  "category": "microwave-ovens",
+  "subcategory": "Convection",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Convection 30L Microwave - demo product.",
+  "price": 11999,
+  "original_price": 15999,
+  "discount": 25,
+  "rating": 4.4,
+  "review_count": 1330,
+  "stock": 22,
+  "in_stock": true,
+  "images": [
+   "/api/images/47/0.svg",
+   "/api/images/47/1.svg",
+   "/api/images/47/2.svg"
+  ],
+  "image": "/api/images/47/0.svg",
+  "specifications": {
+   "Capacity": "30 L",
+   "Type": "Convection (bake, grill, reheat)",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Capacity: 30 L",
+   "Type: Convection (bake, grill, reheat)",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "25% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "family",
+   "baking"
+  ],
+  "search_keywords": "microwave oven మైక్రోవేవ్ माइक्रोवेव மைக்ரோவேவ் ಮೈಕ್ರೋವೇವ್ മൈക്രോവേവ് মাইক্রোওয়েভ Nova Nova Convection 30L Microwave family baking",
+  "metrics": {
+   "capacity": 30,
+   "capacity_unit": "L"
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080951",
+  "updated_at": "2026-10-17T08:10:21.098095"
+ },
+ {
+  "id": 48,
+  "name": "Aarav Air 1200mm Ceiling Fan",
+  "category": "fans",
+  "subcategory": "Ceiling fan",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Air 1200mm Ceiling Fan - demo product.",
+  "price": 1799,
+  "original_price": 2499,
+  "discount": 28,
+  "rating": 4.1,
+  "review_count": 5530,
+  "stock": 110,
+  "in_stock": true,
+  "images": [
+   "/api/images/48/0.svg",
+   "/api/images/48/1.svg",
+   "/api/images/48/2.svg"
+  ],
+  "image": "/api/images/48/0.svg",
+  "specifications": {
+   "Sweep": "1200 mm",
+   "Speed": "370 RPM",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Sweep: 1200 mm",
+   "Speed: 370 RPM",
+   "Warranty: 2 years"
+  ],
+  "advantages": [
+   "28% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "budget"
+  ],
+  "search_keywords": "fan ceiling fan ఫ్యాన్ పంకా पंखा फैन ஃபேன் மின்விசிறி ಫ್ಯಾನ್ ഫാൻ ফ্যান পাখা Aarav Aarav Air 1200mm Ceiling Fan budget",
+  "metrics": {
+   "star_rating": 3
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080953",
+  "updated_at": "2026-10-17T08:10:21.098096"
+ },
+ {
+  "id": 49,
+  "name": "Nova Eco BLDC Ceiling Fan",
+  "category": "fans",
+  "subcategory": "Ceiling fan",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Eco BLDC Ceiling Fan - demo product.",
+  "price": 3499,
+  "original_price": 4999,
+  "discount": 30,
+  "rating": 4.5,
+  "review_count": 2840,
+  "stock": 60,
+  "in_stock": true,
+  "images": [
+   "/api/images/49/0.svg",
+   "/api/images/49/1.svg",
+   "/api/images/49/2.svg"
+  ],
+  "image": "/api/images/49/0.svg",
+  "specifications": {
+   "Sweep": "1200 mm",
+   "Type": "BLDC motor, saves electricity",
+   "Warranty": "5 years"
+  },
+  "features": [
+   "Sweep: 1200 mm",
+   "Type: BLDC motor, saves electricity",
+   "Warranty: 5 years"
+  ],
+  "advantages": [
+   "Saves electricity (5 star)",
+   "30% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "energy-saving",
+   "remote"
+  ],
+  "search_keywords": "fan ceiling fan ఫ్యాన్ పంకా पंखा फैन ஃபேன் மின்விசிறி ಫ್ಯಾನ್ ഫാൻ ফ্যান পাখা Nova Nova Eco BLDC Ceiling Fan energy-saving remote",
+  "metrics": {
+   "star_rating": 5
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080955",
+  "updated_at": "2026-10-17T08:10:21.098098"
+ },
+ {
+  "id": 50,
+  "name": "Zenix Table Fan 400mm",
+  "category": "fans",
+  "subcategory": "Table fan",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Table Fan 400mm - demo product.",
+  "price": 1199,
+  "original_price": 1699,
+  "discount": 29,
+  "rating": 4.0,
+  "review_count": 3110,
+  "stock": 95,
+  "in_stock": true,
+  "images": [
+   "/api/images/50/0.svg",
+   "/api/images/50/1.svg",
+   "/api/images/50/2.svg"
+  ],
+  "image": "/api/images/50/0.svg",
+  "specifications": {
+   "Sweep": "400 mm",
+   "Speeds": "3",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Sweep: 400 mm",
+   "Speeds: 3",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "29% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "budget",
+   "portable"
+  ],
+  "search_keywords": "fan ceiling fan ఫ్యాన్ పంకా पंखा फैन ஃபேன் மின்விசிறி ಫ್ಯಾನ್ ഫാൻ ফ্যান পাখা Zenix Zenix Table Fan 400mm budget portable",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080957",
+  "updated_at": "2026-10-17T08:10:21.098100"
+ },
+ {
+  "id": 51,
+  "name": "Aarav Cotton Formal Shirt",
+  "category": "mens-clothing",
+  "subcategory": "Shirt",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Cotton Formal Shirt - demo product.",
+  "price": 899,
+  "original_price": 1799,
+  "discount": 50,
+  "rating": 4.1,
+  "review_count": 2210,
+  "stock": 120,
+  "in_stock": true,
+  "images": [
+   "/api/images/51/0.svg",
+   "/api/images/51/1.svg",
+   "/api/images/51/2.svg"
+  ],
+  "image": "/api/images/51/0.svg",
+  "specifications": {
+   "Material": "100% cotton",
+   "Fit": "Regular",
+   "Sizes": "S-XXL"
+  },
+  "features": [
+   "Material: 100% cotton",
+   "Fit: Regular",
+   "Sizes: S-XXL"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "formal",
+   "cotton"
+  ],
+  "search_keywords": "shirt t-shirt tshirt jeans trousers men's wear mens wear చొక్కా షర్ట్ शर्ट சட்டை ಅಂಗಿ ഷർട്ട് শার্ট Aarav Aarav Cotton Formal Shirt formal cotton",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080959",
+  "updated_at": "2026-10-17T08:10:21.098102"
+ },
+ {
+  "id": 52,
+  "name": "Nova Everyday T-Shirt Pack of 2",
+  "category": "mens-clothing",
+  "subcategory": "T-shirt",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Everyday T-Shirt Pack of 2 - demo product.",
+  "price": 599,
+  "original_price": 1199,
+  "discount": 50,
+  "rating": 4.0,
+  "review_count": 4320,
+  "stock": 200,
+  "in_stock": true,
+  "images": [
+   "/api/images/52/0.svg",
+   "/api/images/52/1.svg",
+   "/api/images/52/2.svg"
+  ],
+  "image": "/api/images/52/0.svg",
+  "specifications": {
+   "Material": "Cotton blend",
+   "Fit": "Regular",
+   "Sizes": "S-XXL"
+  },
+  "features": [
+   "Material: Cotton blend",
+   "Fit: Regular",
+   "Sizes: S-XXL"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "casual",
+   "budget"
+  ],
+  "search_keywords": "shirt t-shirt tshirt jeans trousers men's wear mens wear చొక్కా షర్ట్ शर्ट சட்டை ಅಂಗಿ ഷർട്ട് শার্ট Nova Nova Everyday T-Shirt Pack of 2 casual budget",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080962",
+  "updated_at": "2026-10-17T08:10:21.098104"
+ },
+ {
+  "id": 53,
+  "name": "Zenix Stretch Jeans",
+  "category": "mens-clothing",
+  "subcategory": "Jeans",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Stretch Jeans - demo product.",
+  "price": 1299,
+  "original_price": 2499,
+  "discount": 48,
+  "rating": 4.2,
+  "review_count": 1880,
+  "stock": 90,
+  "in_stock": true,
+  "images": [
+   "/api/images/53/0.svg",
+   "/api/images/53/1.svg",
+   "/api/images/53/2.svg"
+  ],
+  "image": "/api/images/53/0.svg",
+  "specifications": {
+   "Material": "Stretch denim",
+   "Fit": "Slim",
+   "Sizes": "28-38"
+  },
+  "features": [
+   "Material: Stretch denim",
+   "Fit: Slim",
+   "Sizes: 28-38"
+  ],
+  "advantages": [
+   "48% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "casual"
+  ],
+  "search_keywords": "shirt t-shirt tshirt jeans trousers men's wear mens wear చొక్కా షర్ట్ शर्ट சட்டை ಅಂಗಿ ഷർട്ട് শার্ট Zenix Zenix Stretch Jeans casual",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080964",
+  "updated_at": "2026-10-17T08:10:21.098106"
+ },
+ {
+  "id": 54,
+  "name": "Orbit Silk Blend Saree",
+  "category": "womens-clothing",
+  "subcategory": "Saree",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Silk Blend Saree - demo product.",
+  "price": 1999,
+  "original_price": 3999,
+  "discount": 50,
+  "rating": 4.3,
+  "review_count": 1450,
+  "stock": 55,
+  "in_stock": true,
+  "images": [
+   "/api/images/54/0.svg",
+   "/api/images/54/1.svg",
+   "/api/images/54/2.svg"
+  ],
+  "image": "/api/images/54/0.svg",
+  "specifications": {
+   "Material": "Silk blend",
+   "Length": "5.5 m with blouse piece"
+  },
+  "features": [
+   "Material: Silk blend",
+   "Length: 5.5 m with blouse piece"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "festive"
+  ],
+  "search_keywords": "saree sari kurti dress chudidar చీర కుర్తీ साड़ी साडी कुर्ती புடவை சேலை ಸೀರೆ സാരി শাড়ি Orbit Orbit Silk Blend Saree festive",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080966",
+  "updated_at": "2026-10-17T08:10:21.098107"
+ },
+ {
+  "id": 55,
+  "name": "Aarav Printed Cotton Kurti",
+  "category": "womens-clothing",
+  "subcategory": "Kurti",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Printed Cotton Kurti - demo product.",
+  "price": 699,
+  "original_price": 1399,
+  "discount": 50,
+  "rating": 4.1,
+  "review_count": 3110,
+  "stock": 140,
+  "in_stock": true,
+  "images": [
+   "/api/images/55/0.svg",
+   "/api/images/55/1.svg",
+   "/api/images/55/2.svg"
+  ],
+  "image": "/api/images/55/0.svg",
+  "specifications": {
+   "Material": "Cotton",
+   "Sizes": "S-XXL"
+  },
+  "features": [
+   "Material: Cotton",
+   "Sizes: S-XXL"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "casual",
+   "cotton"
+  ],
+  "search_keywords": "saree sari kurti dress chudidar చీర కుర్తీ साड़ी साडी कुर्ती புடவை சேலை ಸೀರೆ സാരി শাড়ি Aarav Aarav Printed Cotton Kurti casual cotton",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080968",
+  "updated_at": "2026-10-17T08:10:21.098109"
+ },
+ {
+  "id": 56,
+  "name": "Nova A-Line Dress",
+  "category": "womens-clothing",
+  "subcategory": "Dress",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova A-Line Dress - demo product.",
+  "price": 1299,
+  "original_price": 2599,
+  "discount": 50,
+  "rating": 4.2,
+  "review_count": 970,
+  "stock": 70,
+  "in_stock": true,
+  "images": [
+   "/api/images/56/0.svg",
+   "/api/images/56/1.svg",
+   "/api/images/56/2.svg"
+  ],
+  "image": "/api/images/56/0.svg",
+  "specifications": {
+   "Material": "Rayon",
+   "Sizes": "S-XL"
+  },
+  "features": [
+   "Material: Rayon",
+   "Sizes: S-XL"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "casual"
+  ],
+  "search_keywords": "saree sari kurti dress chudidar చీర కుర్తీ साड़ी साडी कुर्ती புடவை சேலை ಸೀರೆ സാരി শাড়ি Nova Nova A-Line Dress casual",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080970",
+  "updated_at": "2026-10-17T08:10:21.098111"
+ },
+ {
+  "id": 57,
+  "name": "Zenix Kids Cartoon T-Shirt Set",
+  "category": "kids-clothing",
+  "subcategory": "T-shirt",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Kids Cartoon T-Shirt Set - demo product.",
+  "price": 549,
+  "original_price": 999,
+  "discount": 45,
+  "rating": 4.2,
+  "review_count": 2210,
+  "stock": 150,
+  "in_stock": true,
+  "images": [
+   "/api/images/57/0.svg",
+   "/api/images/57/1.svg",
+   "/api/images/57/2.svg"
+  ],
+  "image": "/api/images/57/0.svg",
+  "specifications": {
+   "Material": "Soft cotton",
+   "Age": "4-10 years",
+   "Pack": "3 pieces"
+  },
+  "features": [
+   "Material: Soft cotton",
+   "Age: 4-10 years",
+   "Pack: 3 pieces"
+  ],
+  "advantages": [
+   "45% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "kids",
+   "cotton"
+  ],
+  "search_keywords": "kids wear kids clothes children clothes kids clothing పిల్లల బట్టలు बच्चों के कपड़े குழந்தைகள் உடை ಮಕ್ಕಳ ಬಟ್ಟೆ കുട്ടികളുടെ വസ്ത്രം শিশুদের পোশাক Zenix Zenix Kids Cartoon T-Shirt Set kids cotton",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080972",
+  "updated_at": "2026-10-17T08:10:21.098112"
+ },
+ {
+  "id": 58,
+  "name": "Nova Kids Party Frock",
+  "category": "kids-clothing",
+  "subcategory": "Dress",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Kids Party Frock - demo product.",
+  "price": 899,
+  "original_price": 1799,
+  "discount": 50,
+  "rating": 4.3,
+  "review_count": 760,
+  "stock": 60,
+  "in_stock": true,
+  "images": [
+   "/api/images/58/0.svg",
+   "/api/images/58/1.svg",
+   "/api/images/58/2.svg"
+  ],
+  "image": "/api/images/58/0.svg",
+  "specifications": {
+   "Material": "Cotton blend",
+   "Age": "3-9 years"
+  },
+  "features": [
+   "Material: Cotton blend",
+   "Age: 3-9 years"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "kids",
+   "festive"
+  ],
+  "search_keywords": "kids wear kids clothes children clothes kids clothing పిల్లల బట్టలు बच्चों के कपड़े குழந்தைகள் உடை ಮಕ್ಕಳ ಬಟ್ಟೆ കുട്ടികളുടെ വസ്ത്രം শিশুদের পোশাক Nova Nova Kids Party Frock kids festive",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080974",
+  "updated_at": "2026-10-17T08:10:21.098114"
+ },
+ {
+  "id": 59,
+  "name": "Aarav Kids Night Suit",
+  "category": "kids-clothing",
+  "subcategory": "Set",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Kids Night Suit - demo product.",
+  "price": 499,
+  "original_price": 899,
+  "discount": 44,
+  "rating": 4.1,
+  "review_count": 1340,
+  "stock": 110,
+  "in_stock": true,
+  "images": [
+   "/api/images/59/0.svg",
+   "/api/images/59/1.svg",
+   "/api/images/59/2.svg"
+  ],
+  "image": "/api/images/59/0.svg",
+  "specifications": {
+   "Material": "Soft cotton",
+   "Age": "3-12 years"
+  },
+  "features": [
+   "Material: Soft cotton",
+   "Age: 3-12 years"
+  ],
+  "advantages": [
+   "44% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "kids",
+   "budget"
+  ],
+  "search_keywords": "kids wear kids clothes children clothes kids clothing పిల్లల బట్టలు बच्चों के कपड़े குழந்தைகள் உடை ಮಕ್ಕಳ ಬಟ್ಟೆ കുട്ടികളുടെ വസ്ത്രം শিশুদের পোশাক Aarav Aarav Kids Night Suit kids budget",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080976",
+  "updated_at": "2026-10-17T08:10:21.098116"
+ },
+ {
+  "id": 60,
+  "name": "Nova Runner Sports Shoes",
+  "category": "shoes",
+  "subcategory": "Running",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Runner Sports Shoes - demo product.",
+  "price": 1799,
+  "original_price": 3499,
+  "discount": 49,
+  "rating": 4.3,
+  "review_count": 3880,
+  "stock": 80,
+  "in_stock": true,
+  "images": [
+   "/api/images/60/0.svg",
+   "/api/images/60/1.svg",
+   "/api/images/60/2.svg"
+  ],
+  "image": "/api/images/60/0.svg",
+  "specifications": {
+   "Type": "Running shoes",
+   "Sole": "Cushioned",
+   "Sizes": "6-11"
+  },
+  "features": [
+   "Type: Running shoes",
+   "Sole: Cushioned",
+   "Sizes: 6-11"
+  ],
+  "advantages": [
+   "49% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "sports",
+   "comfortable"
+  ],
+  "search_keywords": "shoe sneaker sandal footwear slipper షూస్ షూ బూట్లు చెప్పులు जूते जूता चप्पल காலணி ஷூ செருப்பு ಶೂ ಚಪ್ಪಲಿ ഷൂ ചെരുപ്പ് জুতা জুতো बूट शूज Nova Nova Runner Sports Shoes sports comfortable",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080978",
+  "updated_at": "2026-10-17T08:10:21.098118"
+ },
+ {
+  "id": 61,
+  "name": "Aarav Daily Walk Shoes",
+  "category": "shoes",
+  "subcategory": "Casual",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Daily Walk Shoes - demo product.",
+  "price": 999,
+  "original_price": 1999,
+  "discount": 50,
+  "rating": 4.1,
+  "review_count": 5210,
+  "stock": 130,
+  "in_stock": true,
+  "images": [
+   "/api/images/61/0.svg",
+   "/api/images/61/1.svg",
+   "/api/images/61/2.svg"
+  ],
+  "image": "/api/images/61/0.svg",
+  "specifications": {
+   "Type": "Casual walking shoes",
+   "Sole": "Light and flexible",
+   "Sizes": "6-11"
+  },
+  "features": [
+   "Type: Casual walking shoes",
+   "Sole: Light and flexible",
+   "Sizes: 6-11"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "budget",
+   "comfortable"
+  ],
+  "search_keywords": "shoe sneaker sandal footwear slipper షూస్ షూ బూట్లు చెప్పులు जूते जूता चप्पल காலணி ஷூ செருப்பு ಶೂ ಚಪ್ಪಲಿ ഷൂ ചെരുപ്പ് জুতা জুতো बूट शूज Aarav Aarav Daily Walk Shoes budget comfortable",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080981",
+  "updated_at": "2026-10-17T08:10:21.098119"
+ },
+ {
+  "id": 62,
+  "name": "Zenix Kids School Shoes",
+  "category": "shoes",
+  "subcategory": "Kids",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Kids School Shoes - demo product.",
+  "price": 799,
+  "original_price": 1499,
+  "discount": 47,
+  "rating": 4.2,
+  "review_count": 2640,
+  "stock": 100,
+  "in_stock": true,
+  "images": [
+   "/api/images/62/0.svg",
+   "/api/images/62/1.svg",
+   "/api/images/62/2.svg"
+  ],
+  "image": "/api/images/62/0.svg",
+  "specifications": {
+   "Type": "School shoes",
+   "Closure": "Velcro",
+   "Sizes": "Kids 1-5"
+  },
+  "features": [
+   "Type: School shoes",
+   "Closure: Velcro",
+   "Sizes: Kids 1-5"
+  ],
+  "advantages": [
+   "47% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "kids",
+   "school",
+   "budget"
+  ],
+  "search_keywords": "shoe sneaker sandal footwear slipper షూస్ షూ బూట్లు చెప్పులు जूते जूता चप्पल காலணி ஷூ செருப்பு ಶೂ ಚಪ್ಪಲಿ ഷൂ ചെരുപ്പ് জুতা জুতো बूट शूज Zenix Zenix Kids School Shoes kids school budget",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080983",
+  "updated_at": "2026-10-17T08:10:21.098121"
+ },
+ {
+  "id": 63,
+  "name": "Orbit Kids Sports Shoes",
+  "category": "shoes",
+  "subcategory": "Kids",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Kids Sports Shoes - demo product.",
+  "price": 1199,
+  "original_price": 2199,
+  "discount": 45,
+  "rating": 4.3,
+  "review_count": 1180,
+  "stock": 70,
+  "in_stock": true,
+  "images": [
+   "/api/images/63/0.svg",
+   "/api/images/63/1.svg",
+   "/api/images/63/2.svg"
+  ],
+  "image": "/api/images/63/0.svg",
+  "specifications": {
+   "Type": "Kids sports shoes",
+   "Closure": "Laces",
+   "Sizes": "Kids 1-5"
+  },
+  "features": [
+   "Type: Kids sports shoes",
+   "Closure: Laces",
+   "Sizes: Kids 1-5"
+  ],
+  "advantages": [
+   "45% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "kids",
+   "sports"
+  ],
+  "search_keywords": "shoe sneaker sandal footwear slipper షూస్ షూ బూట్లు చెప్పులు जूते जूता चप्पल காலணி ஷூ செருப்பு ಶೂ ಚಪ್ಪಲಿ ഷൂ ചെരുപ്പ് জুতা জুতো बूट शूज Orbit Orbit Kids Sports Shoes kids sports",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080985",
+  "updated_at": "2026-10-17T08:10:21.098123"
+ },
+ {
+  "id": 64,
+  "name": "Zenix Leather Formal Shoes",
+  "category": "shoes",
+  "subcategory": "Formal",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Leather Formal Shoes - demo product.",
+  "price": 2299,
+  "original_price": 3999,
+  "discount": 43,
+  "rating": 4.2,
+  "review_count": 890,
+  "stock": 40,
+  "in_stock": true,
+  "images": [
+   "/api/images/64/0.svg",
+   "/api/images/64/1.svg",
+   "/api/images/64/2.svg"
+  ],
+  "image": "/api/images/64/0.svg",
+  "specifications": {
+   "Type": "Formal shoes",
+   "Material": "Leather",
+   "Sizes": "6-11"
+  },
+  "features": [
+   "Type: Formal shoes",
+   "Material: Leather",
+   "Sizes: 6-11"
+  ],
+  "advantages": [
+   "43% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "formal"
+  ],
+  "search_keywords": "shoe sneaker sandal footwear slipper షూస్ షూ బూట్లు చెప్పులు जूते जूता चप्पल காலணி ஷூ செருப்பு ಶೂ ಚಪ್ಪಲಿ ഷൂ ചെരുപ്പ് জুতা জুতো बूट शूज Zenix Zenix Leather Formal Shoes formal",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080987",
+  "updated_at": "2026-10-17T08:10:21.098161"
+ },
+ {
+  "id": 65,
+  "name": "Aarav Classic Analog Watch",
+  "category": "watches",
+  "subcategory": "Analog",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Classic Analog Watch - demo product.",
+  "price": 1499,
+  "original_price": 2999,
+  "discount": 50,
+  "rating": 4.1,
+  "review_count": 1220,
+  "stock": 60,
+  "in_stock": true,
+  "images": [
+   "/api/images/65/0.svg",
+   "/api/images/65/1.svg",
+   "/api/images/65/2.svg"
+  ],
+  "image": "/api/images/65/0.svg",
+  "specifications": {
+   "Type": "Analog",
+   "Strap": "Leather",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Type: Analog",
+   "Strap: Leather",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "classic"
+  ],
+  "search_keywords": "watch wrist watch వాచ్ గడియారం घड़ी वॉच கடிகாரம் ವಾಚ್ ಗಡಿಯಾರ വാച്ച് ঘড়ি घड्याळ Aarav Aarav Classic Analog Watch classic",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080989",
+  "updated_at": "2026-10-17T08:10:21.098165"
+ },
+ {
+  "id": 66,
+  "name": "Nova Sports Digital Watch",
+  "category": "watches",
+  "subcategory": "Digital",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Sports Digital Watch - demo product.",
+  "price": 999,
+  "original_price": 1999,
+  "discount": 50,
+  "rating": 4.0,
+  "review_count": 1960,
+  "stock": 85,
+  "in_stock": true,
+  "images": [
+   "/api/images/66/0.svg",
+   "/api/images/66/1.svg",
+   "/api/images/66/2.svg"
+  ],
+  "image": "/api/images/66/0.svg",
+  "specifications": {
+   "Type": "Digital",
+   "Water resistance": "50 m",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Type: Digital",
+   "Water resistance: 50 m",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "sports"
+  ],
+  "search_keywords": "watch wrist watch వాచ్ గడియారం घड़ी वॉच கடிகாரம் ವಾಚ್ ಗಡಿಯಾರ വാച്ച് ঘড়ি घड्याळ Nova Nova Sports Digital Watch sports",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080991",
+  "updated_at": "2026-10-17T08:10:21.098167"
+ },
+ {
+  "id": 67,
+  "name": "Orbit Steel Chronograph",
+  "category": "watches",
+  "subcategory": "Analog",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Steel Chronograph - demo product.",
+  "price": 3999,
+  "original_price": 6999,
+  "discount": 43,
+  "rating": 4.4,
+  "review_count": 410,
+  "stock": 20,
+  "in_stock": true,
+  "images": [
+   "/api/images/67/0.svg",
+   "/api/images/67/1.svg",
+   "/api/images/67/2.svg"
+  ],
+  "image": "/api/images/67/0.svg",
+  "specifications": {
+   "Type": "Analog chronograph",
+   "Strap": "Steel",
+   "Warranty": "2 years"
+  },
+  "features": [
+   "Type: Analog chronograph",
+   "Strap: Steel",
+   "Warranty: 2 years"
+  ],
+  "advantages": [
+   "43% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "premium",
+   "gift"
+  ],
+  "search_keywords": "watch wrist watch వాచ్ గడియారం घड़ी वॉच கடிகாரம் ವಾಚ್ ಗಡಿಯಾರ വാച്ച് ঘড়ি घड्याळ Orbit Orbit Steel Chronograph premium gift",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080993",
+  "updated_at": "2026-10-17T08:10:21.098169"
+ },
+ {
+  "id": 68,
+  "name": "Aarav School Backpack 30L",
+  "category": "bags",
+  "subcategory": "Backpack",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav School Backpack 30L - demo product.",
+  "price": 799,
+  "original_price": 1599,
+  "discount": 50,
+  "rating": 4.2,
+  "review_count": 3220,
+  "stock": 90,
+  "in_stock": true,
+  "images": [
+   "/api/images/68/0.svg",
+   "/api/images/68/1.svg",
+   "/api/images/68/2.svg"
+  ],
+  "image": "/api/images/68/0.svg",
+  "specifications": {
+   "Capacity": "30 L",
+   "Material": "Water-resistant polyester"
+  },
+  "features": [
+   "Capacity: 30 L",
+   "Material: Water-resistant polyester"
+  ],
+  "advantages": [
+   "50% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "school",
+   "kids"
+  ],
+  "search_keywords": "bag backpack handbag luggage బ్యాగ్ బ్యాగు बैग பை பேக் ಬ್ಯಾಗ್ ബാഗ് ব্যাগ बॅग Aarav Aarav School Backpack 30L school kids",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080995",
+  "updated_at": "2026-10-17T08:10:21.098171"
+ },
+ {
+  "id": 69,
+  "name": "Nova Laptop Backpack 25L",
+  "category": "bags",
+  "subcategory": "Laptop bag",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Laptop Backpack 25L - demo product.",
+  "price": 1299,
+  "original_price": 2399,
+  "discount": 46,
+  "rating": 4.3,
+  "review_count": 1580,
+  "stock": 65,
+  "in_stock": true,
+  "images": [
+   "/api/images/69/0.svg",
+   "/api/images/69/1.svg",
+   "/api/images/69/2.svg"
+  ],
+  "image": "/api/images/69/0.svg",
+  "specifications": {
+   "Capacity": "25 L",
+   "Fits": "Laptops up to 15.6 inch"
+  },
+  "features": [
+   "Capacity: 25 L",
+   "Fits: Laptops up to 15.6 inch"
+  ],
+  "advantages": [
+   "46% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "office",
+   "travel"
+  ],
+  "search_keywords": "bag backpack handbag luggage బ్యాగ్ బ్యాగు बैग பை பேக் ಬ್ಯಾಗ್ ബാഗ് ব্যাগ बॅग Nova Nova Laptop Backpack 25L office travel",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.080997",
+  "updated_at": "2026-10-17T08:10:21.098172"
+ },
+ {
+  "id": 70,
+  "name": "Orbit Women's Handbag",
+  "category": "bags",
+  "subcategory": "Handbag",
+  "group": "",
+  "brand": "Orbit",
+  "description": "Orbit Women's Handbag - demo product.",
+  "price": 1599,
+  "original_price": 2999,
+  "discount": 47,
+  "rating": 4.1,
+  "review_count": 760,
+  "stock": 45,
+  "in_stock": true,
+  "images": [
+   "/api/images/70/0.svg",
+   "/api/images/70/1.svg",
+   "/api/images/70/2.svg"
+  ],
+  "image": "/api/images/70/0.svg",
+  "specifications": {
+   "Material": "Synthetic leather",
+   "Compartments": "3"
+  },
+  "features": [
+   "Material: Synthetic leather",
+   "Compartments: 3"
+  ],
+  "advantages": [
+   "47% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "gift"
+  ],
+  "search_keywords": "bag backpack handbag luggage బ్యాగ్ బ్యాగు बैग பை பேக் ಬ್ಯಾಗ್ ബാഗ് ব্যাগ बॅग Orbit Orbit Women's Handbag gift",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081000",
+  "updated_at": "2026-10-17T08:10:21.098174"
+ },
+ {
+  "id": 71,
+  "name": "Kisan Demo Sona Masoori Rice 26 kg",
+  "category": "rice",
+  "subcategory": "Sona Masoori",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Sona Masoori Rice 26 kg - demo product.",
+  "price": 1399,
+  "original_price": 1599,
+  "discount": 13,
+  "rating": 4.3,
+  "review_count": 2210,
+  "stock": 80,
+  "in_stock": true,
+  "images": [
+   "/api/images/71/0.svg",
+   "/api/images/71/1.svg",
+   "/api/images/71/2.svg"
+  ],
+  "image": "/api/images/71/0.svg",
+  "specifications": {
+   "Weight": "26 kg",
+   "Type": "Sona Masoori"
+  },
+  "features": [
+   "Weight: 26 kg",
+   "Type: Sona Masoori"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "staple"
+  ],
+  "search_keywords": "rice బియ్యం चावल அரிசி ಅಕ್ಕಿ അരി চাল तांदूळ Kisan Demo Kisan Demo Sona Masoori Rice 26 kg staple",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081002",
+  "updated_at": "2026-10-17T08:10:21.098176"
+ },
+ {
+  "id": 72,
+  "name": "Bharat Demo Basmati Rice 5 kg",
+  "category": "rice",
+  "subcategory": "Basmati",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Basmati Rice 5 kg - demo product.",
+  "price": 749,
+  "original_price": 899,
+  "discount": 17,
+  "rating": 4.4,
+  "review_count": 1850,
+  "stock": 100,
+  "in_stock": true,
+  "images": [
+   "/api/images/72/0.svg",
+   "/api/images/72/1.svg",
+   "/api/images/72/2.svg"
+  ],
+  "image": "/api/images/72/0.svg",
+  "specifications": {
+   "Weight": "5 kg",
+   "Type": "Long grain basmati"
+  },
+  "features": [
+   "Weight: 5 kg",
+   "Type: Long grain basmati"
+  ],
+  "advantages": [
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "staple"
+  ],
+  "search_keywords": "rice బియ్యం चावल அரிசி ಅಕ್ಕಿ അരി চাল तांदूळ Bharat Demo Bharat Demo Basmati Rice 5 kg staple",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081004",
+  "updated_at": "2026-10-17T08:10:21.098181"
+ },
+ {
+  "id": 73,
+  "name": "Kisan Demo Brown Rice 5 kg",
+  "category": "rice",
+  "subcategory": "Brown rice",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Brown Rice 5 kg - demo product.",
+  "price": 549,
+  "original_price": 649,
+  "discount": 15,
+  "rating": 4.1,
+  "review_count": 620,
+  "stock": 60,
+  "in_stock": true,
+  "images": [
+   "/api/images/73/0.svg",
+   "/api/images/73/1.svg",
+   "/api/images/73/2.svg"
+  ],
+  "image": "/api/images/73/0.svg",
+  "specifications": {
+   "Weight": "5 kg",
+   "Type": "Brown rice"
+  },
+  "features": [
+   "Weight: 5 kg",
+   "Type: Brown rice"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "healthy"
+  ],
+  "search_keywords": "rice బియ్యం चावल அரிசி ಅಕ್ಕಿ അരി চাল तांदूळ Kisan Demo Kisan Demo Brown Rice 5 kg healthy",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081006",
+  "updated_at": "2026-10-17T08:10:21.098183"
+ },
+ {
+  "id": 74,
+  "name": "Bharat Demo Toor Dal 1 kg",
+  "category": "pulses",
+  "subcategory": "Toor dal",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Toor Dal 1 kg - demo product.",
+  "price": 169,
+  "original_price": 199,
+  "discount": 15,
+  "rating": 4.2,
+  "review_count": 3210,
+  "stock": 150,
+  "in_stock": true,
+  "images": [
+   "/api/images/74/0.svg",
+   "/api/images/74/1.svg",
+   "/api/images/74/2.svg"
+  ],
+  "image": "/api/images/74/0.svg",
+  "specifications": {
+   "Weight": "1 kg",
+   "Type": "Toor dal"
+  },
+  "features": [
+   "Weight: 1 kg",
+   "Type: Toor dal"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "staple"
+  ],
+  "search_keywords": "dal pulses lentils పప్పు కందిపప్పు दाल பருப்பு ಬೇಳೆ പരിപ്പ് ডাল डाळ Bharat Demo Bharat Demo Toor Dal 1 kg staple",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081008",
+  "updated_at": "2026-10-17T08:10:21.098185"
+ },
+ {
+  "id": 75,
+  "name": "Kisan Demo Moong Dal 1 kg",
+  "category": "pulses",
+  "subcategory": "Moong dal",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Moong Dal 1 kg - demo product.",
+  "price": 149,
+  "original_price": 179,
+  "discount": 17,
+  "rating": 4.3,
+  "review_count": 2110,
+  "stock": 140,
+  "in_stock": true,
+  "images": [
+   "/api/images/75/0.svg",
+   "/api/images/75/1.svg",
+   "/api/images/75/2.svg"
+  ],
+  "image": "/api/images/75/0.svg",
+  "specifications": {
+   "Weight": "1 kg",
+   "Type": "Moong dal"
+  },
+  "features": [
+   "Weight: 1 kg",
+   "Type: Moong dal"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "staple",
+   "protein"
+  ],
+  "search_keywords": "dal pulses lentils పప్పు కందిపప్పు दाल பருப்பு ಬೇಳೆ പരിപ്പ് ডাল डाळ Kisan Demo Kisan Demo Moong Dal 1 kg staple protein",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081010",
+  "updated_at": "2026-10-17T08:10:21.098187"
+ },
+ {
+  "id": 76,
+  "name": "Bharat Demo Chana Dal 1 kg",
+  "category": "pulses",
+  "subcategory": "Chana dal",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Chana Dal 1 kg - demo product.",
+  "price": 119,
+  "original_price": 139,
+  "discount": 14,
+  "rating": 4.1,
+  "review_count": 1820,
+  "stock": 160,
+  "in_stock": true,
+  "images": [
+   "/api/images/76/0.svg",
+   "/api/images/76/1.svg",
+   "/api/images/76/2.svg"
+  ],
+  "image": "/api/images/76/0.svg",
+  "specifications": {
+   "Weight": "1 kg",
+   "Type": "Chana dal"
+  },
+  "features": [
+   "Weight: 1 kg",
+   "Type: Chana dal"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "staple"
+  ],
+  "search_keywords": "dal pulses lentils పప్పు కందిపప్పు दाल பருப்பு ಬೇಳೆ പരിപ്പ് ডাল डाळ Bharat Demo Bharat Demo Chana Dal 1 kg staple",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081012",
+  "updated_at": "2026-10-17T08:10:21.098189"
+ },
+ {
+  "id": 77,
+  "name": "Kisan Demo Groundnut Oil 1 L",
+  "category": "cooking-oil",
+  "subcategory": "Groundnut",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Groundnut Oil 1 L - demo product.",
+  "price": 219,
+  "original_price": 249,
+  "discount": 12,
+  "rating": 4.4,
+  "review_count": 2640,
+  "stock": 100,
+  "in_stock": true,
+  "images": [
+   "/api/images/77/0.svg",
+   "/api/images/77/1.svg",
+   "/api/images/77/2.svg"
+  ],
+  "image": "/api/images/77/0.svg",
+  "specifications": {
+   "Volume": "1 L",
+   "Type": "Groundnut oil"
+  },
+  "features": [
+   "Volume: 1 L",
+   "Type: Groundnut oil"
+  ],
+  "advantages": [
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "staple"
+  ],
+  "search_keywords": "oil cooking oil నూనె तेल எண்ணெய் ಎಣ್ಣೆ എണ്ണ তেল Kisan Demo Kisan Demo Groundnut Oil 1 L staple",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081014",
+  "updated_at": "2026-10-17T08:10:21.098190"
+ },
+ {
+  "id": 78,
+  "name": "Bharat Demo Sunflower Oil 5 L",
+  "category": "cooking-oil",
+  "subcategory": "Sunflower",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Sunflower Oil 5 L - demo product.",
+  "price": 849,
+  "original_price": 999,
+  "discount": 15,
+  "rating": 4.2,
+  "review_count": 1810,
+  "stock": 70,
+  "in_stock": true,
+  "images": [
+   "/api/images/78/0.svg",
+   "/api/images/78/1.svg",
+   "/api/images/78/2.svg"
+  ],
+  "image": "/api/images/78/0.svg",
+  "specifications": {
+   "Volume": "5 L",
+   "Type": "Refined sunflower oil"
+  },
+  "features": [
+   "Volume: 5 L",
+   "Type: Refined sunflower oil"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "staple"
+  ],
+  "search_keywords": "oil cooking oil నూనె तेल எண்ணெய் ಎಣ್ಣೆ എണ്ണ তেল Bharat Demo Bharat Demo Sunflower Oil 5 L staple",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081016",
+  "updated_at": "2026-10-17T08:10:21.098192"
+ },
+ {
+  "id": 79,
+  "name": "Kisan Demo Coconut Oil 1 L",
+  "category": "cooking-oil",
+  "subcategory": "Coconut",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Coconut Oil 1 L - demo product.",
+  "price": 299,
+  "original_price": 349,
+  "discount": 14,
+  "rating": 4.3,
+  "review_count": 1220,
+  "stock": 90,
+  "in_stock": true,
+  "images": [
+   "/api/images/79/0.svg",
+   "/api/images/79/1.svg",
+   "/api/images/79/2.svg"
+  ],
+  "image": "/api/images/79/0.svg",
+  "specifications": {
+   "Volume": "1 L",
+   "Type": "Coconut oil"
+  },
+  "features": [
+   "Volume: 1 L",
+   "Type: Coconut oil"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "staple"
+  ],
+  "search_keywords": "oil cooking oil నూనె तेल எண்ணெய் ಎಣ್ಣೆ എണ്ണ তেল Kisan Demo Kisan Demo Coconut Oil 1 L staple",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081018",
+  "updated_at": "2026-10-17T08:10:21.098194"
+ },
+ {
+  "id": 80,
+  "name": "Bharat Demo Potato Chips Family Pack",
+  "category": "snacks",
+  "subcategory": "Chips",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Potato Chips Family Pack - demo product.",
+  "price": 99,
+  "original_price": 120,
+  "discount": 18,
+  "rating": 4.0,
+  "review_count": 5120,
+  "stock": 200,
+  "in_stock": true,
+  "images": [
+   "/api/images/80/0.svg",
+   "/api/images/80/1.svg",
+   "/api/images/80/2.svg"
+  ],
+  "image": "/api/images/80/0.svg",
+  "specifications": {
+   "Weight": "200 g"
+  },
+  "features": [
+   "Weight: 200 g"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "snack"
+  ],
+  "search_keywords": "snack chips biscuit namkeen స్నాక్స్ చిప్స్ स्नैक्स बिस्कुट ஸ்நாக்ஸ் ಸ್ನ್ಯಾಕ್ಸ್ Bharat Demo Bharat Demo Potato Chips Family Pack snack",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081020",
+  "updated_at": "2026-10-17T08:10:21.098196"
+ },
+ {
+  "id": 81,
+  "name": "Kisan Demo Whole Wheat Biscuits",
+  "category": "snacks",
+  "subcategory": "Biscuits",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Whole Wheat Biscuits - demo product.",
+  "price": 55,
+  "original_price": 65,
+  "discount": 15,
+  "rating": 4.1,
+  "review_count": 3220,
+  "stock": 250,
+  "in_stock": true,
+  "images": [
+   "/api/images/81/0.svg",
+   "/api/images/81/1.svg",
+   "/api/images/81/2.svg"
+  ],
+  "image": "/api/images/81/0.svg",
+  "specifications": {
+   "Weight": "250 g"
+  },
+  "features": [
+   "Weight: 250 g"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "snack",
+   "kids"
+  ],
+  "search_keywords": "snack chips biscuit namkeen స్నాక్స్ చిప్స్ स्नैक्स बिस्कुट ஸ்நாக்ஸ் ಸ್ನ್ಯಾಕ್ಸ್ Kisan Demo Kisan Demo Whole Wheat Biscuits snack kids",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081022",
+  "updated_at": "2026-10-17T08:10:21.098197"
+ },
+ {
+  "id": 82,
+  "name": "Bharat Demo Mixture Namkeen 400 g",
+  "category": "snacks",
+  "subcategory": "Namkeen",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Mixture Namkeen 400 g - demo product.",
+  "price": 129,
+  "original_price": 149,
+  "discount": 13,
+  "rating": 4.2,
+  "review_count": 2120,
+  "stock": 180,
+  "in_stock": true,
+  "images": [
+   "/api/images/82/0.svg",
+   "/api/images/82/1.svg",
+   "/api/images/82/2.svg"
+  ],
+  "image": "/api/images/82/0.svg",
+  "specifications": {
+   "Weight": "400 g"
+  },
+  "features": [
+   "Weight: 400 g"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "snack"
+  ],
+  "search_keywords": "snack chips biscuit namkeen స్నాక్స్ చిప్స్ स्नैक्स बिस्कुट ஸ்நாக்ஸ் ಸ್ನ್ಯಾಕ್ಸ್ Bharat Demo Bharat Demo Mixture Namkeen 400 g snack",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081025",
+  "updated_at": "2026-10-17T08:10:21.098199"
+ },
+ {
+  "id": 83,
+  "name": "Kisan Demo Strong Tea 500 g",
+  "category": "beverages",
+  "subcategory": "Tea",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Strong Tea 500 g - demo product.",
+  "price": 249,
+  "original_price": 289,
+  "discount": 14,
+  "rating": 4.3,
+  "review_count": 3880,
+  "stock": 130,
+  "in_stock": true,
+  "images": [
+   "/api/images/83/0.svg",
+   "/api/images/83/1.svg",
+   "/api/images/83/2.svg"
+  ],
+  "image": "/api/images/83/0.svg",
+  "specifications": {
+   "Weight": "500 g",
+   "Type": "Black tea leaves"
+  },
+  "features": [
+   "Weight: 500 g",
+   "Type: Black tea leaves"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "tea"
+  ],
+  "search_keywords": "beverage drink juice tea coffee టీ కాఫీ జ్యూస్ चाय कॉफी जूस தேநீர் காபி Kisan Demo Kisan Demo Strong Tea 500 g tea",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081027",
+  "updated_at": "2026-10-17T08:10:21.098201"
+ },
+ {
+  "id": 84,
+  "name": "Bharat Demo Filter Coffee 500 g",
+  "category": "beverages",
+  "subcategory": "Coffee",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Filter Coffee 500 g - demo product.",
+  "price": 349,
+  "original_price": 399,
+  "discount": 13,
+  "rating": 4.4,
+  "review_count": 2310,
+  "stock": 90,
+  "in_stock": true,
+  "images": [
+   "/api/images/84/0.svg",
+   "/api/images/84/1.svg",
+   "/api/images/84/2.svg"
+  ],
+  "image": "/api/images/84/0.svg",
+  "specifications": {
+   "Weight": "500 g",
+   "Type": "Filter coffee powder"
+  },
+  "features": [
+   "Weight: 500 g",
+   "Type: Filter coffee powder"
+  ],
+  "advantages": [
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "coffee"
+  ],
+  "search_keywords": "beverage drink juice tea coffee టీ కాఫీ జ్యూస్ चाय कॉफी जूस தேநீர் காபி Bharat Demo Bharat Demo Filter Coffee 500 g coffee",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081029",
+  "updated_at": "2026-10-17T08:10:21.098202"
+ },
+ {
+  "id": 85,
+  "name": "Kisan Demo Mango Juice 1 L",
+  "category": "beverages",
+  "subcategory": "Juice",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Mango Juice 1 L - demo product.",
+  "price": 99,
+  "original_price": 119,
+  "discount": 17,
+  "rating": 4.0,
+  "review_count": 1990,
+  "stock": 160,
+  "in_stock": true,
+  "images": [
+   "/api/images/85/0.svg",
+   "/api/images/85/1.svg",
+   "/api/images/85/2.svg"
+  ],
+  "image": "/api/images/85/0.svg",
+  "specifications": {
+   "Volume": "1 L"
+  },
+  "features": [
+   "Volume: 1 L"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "juice",
+   "kids"
+  ],
+  "search_keywords": "beverage drink juice tea coffee టీ కాఫీ జ్యూస్ चाय कॉफी जूस தேநீர் காபி Kisan Demo Kisan Demo Mango Juice 1 L juice kids",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081031",
+  "updated_at": "2026-10-17T08:10:21.098204"
+ },
+ {
+  "id": 86,
+  "name": "Nova Daily Moisturizer 200 ml",
+  "category": "skin-care",
+  "subcategory": "Moisturizer",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Daily Moisturizer 200 ml - demo product.",
+  "price": 299,
+  "original_price": 449,
+  "discount": 33,
+  "rating": 4.2,
+  "review_count": 2210,
+  "stock": 120,
+  "in_stock": true,
+  "images": [
+   "/api/images/86/0.svg",
+   "/api/images/86/1.svg",
+   "/api/images/86/2.svg"
+  ],
+  "image": "/api/images/86/0.svg",
+  "specifications": {
+   "Volume": "200 ml",
+   "Skin type": "All skin types"
+  },
+  "features": [
+   "Volume: 200 ml",
+   "Skin type: All skin types"
+  ],
+  "advantages": [
+   "33% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "daily"
+  ],
+  "search_keywords": "skin care skincare face cream moisturizer sunscreen face wash ఫేస్ క్రీమ్ స్కిన్ కేర్ स्किन केयर फेस वॉश Nova Nova Daily Moisturizer 200 ml daily",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081033",
+  "updated_at": "2026-10-17T08:10:21.098206"
+ },
+ {
+  "id": 87,
+  "name": "Aarav Sunscreen SPF 50",
+  "category": "skin-care",
+  "subcategory": "Sunscreen",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Sunscreen SPF 50 - demo product.",
+  "price": 399,
+  "original_price": 599,
+  "discount": 33,
+  "rating": 4.3,
+  "review_count": 1760,
+  "stock": 90,
+  "in_stock": true,
+  "images": [
+   "/api/images/87/0.svg",
+   "/api/images/87/1.svg",
+   "/api/images/87/2.svg"
+  ],
+  "image": "/api/images/87/0.svg",
+  "specifications": {
+   "Volume": "80 ml",
+   "SPF": "50"
+  },
+  "features": [
+   "Volume: 80 ml",
+   "SPF: 50"
+  ],
+  "advantages": [
+   "33% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "sun-protection"
+  ],
+  "search_keywords": "skin care skincare face cream moisturizer sunscreen face wash ఫేస్ క్రీమ్ స్కిన్ కేర్ स्किन केयर फेस वॉश Aarav Aarav Sunscreen SPF 50 sun-protection",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081035",
+  "updated_at": "2026-10-17T08:10:21.098208"
+ },
+ {
+  "id": 88,
+  "name": "Zenix Neem Face Wash",
+  "category": "skin-care",
+  "subcategory": "Face wash",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Neem Face Wash - demo product.",
+  "price": 149,
+  "original_price": 199,
+  "discount": 25,
+  "rating": 4.1,
+  "review_count": 3320,
+  "stock": 180,
+  "in_stock": true,
+  "images": [
+   "/api/images/88/0.svg",
+   "/api/images/88/1.svg",
+   "/api/images/88/2.svg"
+  ],
+  "image": "/api/images/88/0.svg",
+  "specifications": {
+   "Volume": "100 ml",
+   "Skin type": "Oily skin"
+  },
+  "features": [
+   "Volume: 100 ml",
+   "Skin type: Oily skin"
+  ],
+  "advantages": [
+   "25% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "daily"
+  ],
+  "search_keywords": "skin care skincare face cream moisturizer sunscreen face wash ఫేస్ క్రీమ్ స్కిన్ కేర్ स्किन केयर फेस वॉश Zenix Zenix Neem Face Wash daily",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081037",
+  "updated_at": "2026-10-17T08:10:21.098209"
+ },
+ {
+  "id": 89,
+  "name": "Nova Anti-Dandruff Shampoo",
+  "category": "hair-care",
+  "subcategory": "Shampoo",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Anti-Dandruff Shampoo - demo product.",
+  "price": 249,
+  "original_price": 349,
+  "discount": 29,
+  "rating": 4.2,
+  "review_count": 2860,
+  "stock": 130,
+  "in_stock": true,
+  "images": [
+   "/api/images/89/0.svg",
+   "/api/images/89/1.svg",
+   "/api/images/89/2.svg"
+  ],
+  "image": "/api/images/89/0.svg",
+  "specifications": {
+   "Volume": "340 ml"
+  },
+  "features": [
+   "Volume: 340 ml"
+  ],
+  "advantages": [
+   "29% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "daily"
+  ],
+  "search_keywords": "hair care shampoo hair oil conditioner షాంపూ శాంపూ शैम्पू ஷாம்பு ಶಾಂಪೂ Nova Nova Anti-Dandruff Shampoo daily",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081041",
+  "updated_at": "2026-10-17T08:10:21.098211"
+ },
+ {
+  "id": 90,
+  "name": "Kisan Demo Herbal Hair Oil",
+  "category": "hair-care",
+  "subcategory": "Hair oil",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Herbal Hair Oil - demo product.",
+  "price": 179,
+  "original_price": 229,
+  "discount": 22,
+  "rating": 4.3,
+  "review_count": 1920,
+  "stock": 110,
+  "in_stock": true,
+  "images": [
+   "/api/images/90/0.svg",
+   "/api/images/90/1.svg",
+   "/api/images/90/2.svg"
+  ],
+  "image": "/api/images/90/0.svg",
+  "specifications": {
+   "Volume": "200 ml"
+  },
+  "features": [
+   "Volume: 200 ml"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "herbal"
+  ],
+  "search_keywords": "hair care shampoo hair oil conditioner షాంపూ శాంపూ शैम्पू ஷாம்பு ಶಾಂಪೂ Kisan Demo Kisan Demo Herbal Hair Oil herbal",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081043",
+  "updated_at": "2026-10-17T08:10:21.098213"
+ },
+ {
+  "id": 91,
+  "name": "Aarav Smooth Conditioner",
+  "category": "hair-care",
+  "subcategory": "Conditioner",
+  "group": "",
+  "brand": "Aarav",
+  "description": "Aarav Smooth Conditioner - demo product.",
+  "price": 299,
+  "original_price": 399,
+  "discount": 25,
+  "rating": 4.0,
+  "review_count": 880,
+  "stock": 70,
+  "in_stock": true,
+  "images": [
+   "/api/images/91/0.svg",
+   "/api/images/91/1.svg",
+   "/api/images/91/2.svg"
+  ],
+  "image": "/api/images/91/0.svg",
+  "specifications": {
+   "Volume": "250 ml"
+  },
+  "features": [
+   "Volume: 250 ml"
+  ],
+  "advantages": [
+   "25% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "daily"
+  ],
+  "search_keywords": "hair care shampoo hair oil conditioner షాంపూ శాంపూ शैम्पू ஷாம்பு ಶಾಂಪೂ Aarav Aarav Smooth Conditioner daily",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081045",
+  "updated_at": "2026-10-17T08:10:21.098215"
+ },
+ {
+  "id": 92,
+  "name": "Bharat Demo Sandal Soap Pack of 4",
+  "category": "personal-care",
+  "subcategory": "Soap",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Sandal Soap Pack of 4 - demo product.",
+  "price": 189,
+  "original_price": 240,
+  "discount": 21,
+  "rating": 4.2,
+  "review_count": 2210,
+  "stock": 190,
+  "in_stock": true,
+  "images": [
+   "/api/images/92/0.svg",
+   "/api/images/92/1.svg",
+   "/api/images/92/2.svg"
+  ],
+  "image": "/api/images/92/0.svg",
+  "specifications": {
+   "Pack": "4 x 125 g"
+  },
+  "features": [
+   "Pack: 4 x 125 g"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "daily"
+  ],
+  "search_keywords": "personal care soap toothpaste trimmer shaver సబ్బు साबुन ट्रिमर Bharat Demo Bharat Demo Sandal Soap Pack of 4 daily",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081047",
+  "updated_at": "2026-10-17T08:10:21.098216"
+ },
+ {
+  "id": 93,
+  "name": "Zenix Cordless Trimmer",
+  "category": "personal-care",
+  "subcategory": "Trimmer",
+  "group": "",
+  "brand": "Zenix",
+  "description": "Zenix Cordless Trimmer - demo product.",
+  "price": 999,
+  "original_price": 1799,
+  "discount": 44,
+  "rating": 4.2,
+  "review_count": 4410,
+  "stock": 80,
+  "in_stock": true,
+  "images": [
+   "/api/images/93/0.svg",
+   "/api/images/93/1.svg",
+   "/api/images/93/2.svg"
+  ],
+  "image": "/api/images/93/0.svg",
+  "specifications": {
+   "Battery": "60 minutes use",
+   "Warranty": "1 year"
+  },
+  "features": [
+   "Battery: 60 minutes use",
+   "Warranty: 1 year"
+  ],
+  "advantages": [
+   "44% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "grooming",
+   "gift"
+  ],
+  "search_keywords": "personal care soap toothpaste trimmer shaver సబ్బు साबुन ट्रिमर Zenix Zenix Cordless Trimmer grooming gift",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081049",
+  "updated_at": "2026-10-17T08:10:21.098218"
+ },
+ {
+  "id": 94,
+  "name": "Nova Fresh Toothpaste Family Pack",
+  "category": "personal-care",
+  "subcategory": "Toothpaste",
+  "group": "",
+  "brand": "Nova",
+  "description": "Nova Fresh Toothpaste Family Pack - demo product.",
+  "price": 149,
+  "original_price": 189,
+  "discount": 21,
+  "rating": 4.1,
+  "review_count": 3120,
+  "stock": 210,
+  "in_stock": true,
+  "images": [
+   "/api/images/94/0.svg",
+   "/api/images/94/1.svg",
+   "/api/images/94/2.svg"
+  ],
+  "image": "/api/images/94/0.svg",
+  "specifications": {
+   "Weight": "300 g"
+  },
+  "features": [
+   "Weight: 300 g"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "daily"
+  ],
+  "search_keywords": "personal care soap toothpaste trimmer shaver సబ్బు साबुन ट्रिमर Nova Nova Fresh Toothpaste Family Pack daily",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081052",
+  "updated_at": "2026-10-17T08:10:21.098220"
+ },
+ {
+  "id": 95,
+  "name": "Kisan Demo Tomato Seeds Hybrid",
+  "category": "seeds",
+  "subcategory": "Vegetable",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Tomato Seeds Hybrid - demo product.",
+  "price": 149,
+  "original_price": 199,
+  "discount": 25,
+  "rating": 4.2,
+  "review_count": 980,
+  "stock": 140,
+  "in_stock": true,
+  "images": [
+   "/api/images/95/0.svg",
+   "/api/images/95/1.svg",
+   "/api/images/95/2.svg"
+  ],
+  "image": "/api/images/95/0.svg",
+  "specifications": {
+   "Pack": "10 g",
+   "Season": "All seasons"
+  },
+  "features": [
+   "Pack: 10 g",
+   "Season: All seasons"
+  ],
+  "advantages": [
+   "25% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "vegetable",
+   "farming"
+  ],
+  "search_keywords": "seed విత్తనాలు విత్తనం बीज விதை ಬೀಜ വിത്ത് বীজ बियाणे Kisan Demo Kisan Demo Tomato Seeds Hybrid vegetable farming",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081054",
+  "updated_at": "2026-10-17T08:10:21.098222"
+ },
+ {
+  "id": 96,
+  "name": "Kisan Demo Chilli Seeds",
+  "category": "seeds",
+  "subcategory": "Vegetable",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Chilli Seeds - demo product.",
+  "price": 129,
+  "original_price": 169,
+  "discount": 24,
+  "rating": 4.1,
+  "review_count": 760,
+  "stock": 120,
+  "in_stock": true,
+  "images": [
+   "/api/images/96/0.svg",
+   "/api/images/96/1.svg",
+   "/api/images/96/2.svg"
+  ],
+  "image": "/api/images/96/0.svg",
+  "specifications": {
+   "Pack": "10 g",
+   "Season": "Kharif and Rabi"
+  },
+  "features": [
+   "Pack: 10 g",
+   "Season: Kharif and Rabi"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "vegetable",
+   "farming"
+  ],
+  "search_keywords": "seed విత్తనాలు విత్తనం बीज விதை ಬೀಜ വിത്ത് বীজ बियाणे Kisan Demo Kisan Demo Chilli Seeds vegetable farming",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081056",
+  "updated_at": "2026-10-17T08:10:21.098224"
+ },
+ {
+  "id": 97,
+  "name": "Bharat Demo Marigold Seeds",
+  "category": "seeds",
+  "subcategory": "Flower",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Marigold Seeds - demo product.",
+  "price": 79,
+  "original_price": 99,
+  "discount": 20,
+  "rating": 4.0,
+  "review_count": 540,
+  "stock": 160,
+  "in_stock": true,
+  "images": [
+   "/api/images/97/0.svg",
+   "/api/images/97/1.svg",
+   "/api/images/97/2.svg"
+  ],
+  "image": "/api/images/97/0.svg",
+  "specifications": {
+   "Pack": "5 g"
+  },
+  "features": [
+   "Pack: 5 g"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "flower",
+   "garden"
+  ],
+  "search_keywords": "seed విత్తనాలు విత్తనం बीज விதை ಬೀಜ വിത്ത് বীজ बियाणे Bharat Demo Bharat Demo Marigold Seeds flower garden",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081058",
+  "updated_at": "2026-10-17T08:10:21.098225"
+ },
+ {
+  "id": 98,
+  "name": "Kisan Demo Organic Compost 5 kg",
+  "category": "fertilizers",
+  "subcategory": "Organic",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Organic Compost 5 kg - demo product.",
+  "price": 349,
+  "original_price": 449,
+  "discount": 22,
+  "rating": 4.3,
+  "review_count": 1210,
+  "stock": 90,
+  "in_stock": true,
+  "images": [
+   "/api/images/98/0.svg",
+   "/api/images/98/1.svg",
+   "/api/images/98/2.svg"
+  ],
+  "image": "/api/images/98/0.svg",
+  "specifications": {
+   "Weight": "5 kg",
+   "Type": "Organic compost"
+  },
+  "features": [
+   "Weight: 5 kg",
+   "Type: Organic compost"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "organic",
+   "farming"
+  ],
+  "search_keywords": "fertilizer fertiliser manure ఎరువులు ఎరువు खाद उर्वरक உரம் ಗೊಬ್ಬರ വളം সার खत Kisan Demo Kisan Demo Organic Compost 5 kg organic farming",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081060",
+  "updated_at": "2026-10-17T08:10:21.098227"
+ },
+ {
+  "id": 99,
+  "name": "Bharat Demo NPK 19-19-19 1 kg",
+  "category": "fertilizers",
+  "subcategory": "NPK",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo NPK 19-19-19 1 kg - demo product.",
+  "price": 299,
+  "original_price": 379,
+  "discount": 21,
+  "rating": 4.2,
+  "review_count": 860,
+  "stock": 100,
+  "in_stock": true,
+  "images": [
+   "/api/images/99/0.svg",
+   "/api/images/99/1.svg",
+   "/api/images/99/2.svg"
+  ],
+  "image": "/api/images/99/0.svg",
+  "specifications": {
+   "Weight": "1 kg",
+   "Type": "Water-soluble NPK"
+  },
+  "features": [
+   "Weight: 1 kg",
+   "Type: Water-soluble NPK"
+  ],
+  "advantages": [
+   "Good value for the price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "farming"
+  ],
+  "search_keywords": "fertilizer fertiliser manure ఎరువులు ఎరువు खाद उर्वरक உரம் ಗೊಬ್ಬರ വളം সার खत Bharat Demo Bharat Demo NPK 19-19-19 1 kg farming",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081062",
+  "updated_at": "2026-10-17T08:10:21.098229"
+ },
+ {
+  "id": 100,
+  "name": "Kisan Demo Vermicompost 10 kg",
+  "category": "fertilizers",
+  "subcategory": "Vermicompost",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Vermicompost 10 kg - demo product.",
+  "price": 449,
+  "original_price": 549,
+  "discount": 18,
+  "rating": 4.4,
+  "review_count": 1530,
+  "stock": 75,
+  "in_stock": true,
+  "images": [
+   "/api/images/100/0.svg",
+   "/api/images/100/1.svg",
+   "/api/images/100/2.svg"
+  ],
+  "image": "/api/images/100/0.svg",
+  "specifications": {
+   "Weight": "10 kg",
+   "Type": "Vermicompost"
+  },
+  "features": [
+   "Weight: 10 kg",
+   "Type: Vermicompost"
+  ],
+  "advantages": [
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "organic",
+   "garden"
+  ],
+  "search_keywords": "fertilizer fertiliser manure ఎరువులు ఎరువు खाद उर्वरक உரம் ಗೊಬ್ಬರ വളം সার खत Kisan Demo Kisan Demo Vermicompost 10 kg organic garden",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081064",
+  "updated_at": "2026-10-17T08:10:21.098231"
+ },
+ {
+  "id": 101,
+  "name": "Bharat Demo Garden Tool Kit 5 pc",
+  "category": "gardening-tools",
+  "subcategory": "Tool kit",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Garden Tool Kit 5 pc - demo product.",
+  "price": 599,
+  "original_price": 899,
+  "discount": 33,
+  "rating": 4.2,
+  "review_count": 720,
+  "stock": 60,
+  "in_stock": true,
+  "images": [
+   "/api/images/101/0.svg",
+   "/api/images/101/1.svg",
+   "/api/images/101/2.svg"
+  ],
+  "image": "/api/images/101/0.svg",
+  "specifications": {
+   "Pieces": "5",
+   "Material": "Steel with rubber grip"
+  },
+  "features": [
+   "Pieces: 5",
+   "Material: Steel with rubber grip"
+  ],
+  "advantages": [
+   "33% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Sri Demo Traders",
+  "tags": [
+   "garden"
+  ],
+  "search_keywords": "gardening garden tool spade pruner తోట పనిముట్లు बागवानी తోటపని Bharat Demo Bharat Demo Garden Tool Kit 5 pc garden",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081066",
+  "updated_at": "2026-10-17T08:10:21.098232"
+ },
+ {
+  "id": 102,
+  "name": "Kisan Demo Pruning Shears",
+  "category": "gardening-tools",
+  "subcategory": "Pruner",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Pruning Shears - demo product.",
+  "price": 349,
+  "original_price": 499,
+  "discount": 30,
+  "rating": 4.3,
+  "review_count": 910,
+  "stock": 80,
+  "in_stock": true,
+  "images": [
+   "/api/images/102/0.svg",
+   "/api/images/102/1.svg",
+   "/api/images/102/2.svg"
+  ],
+  "image": "/api/images/102/0.svg",
+  "specifications": {
+   "Material": "Hardened steel blade"
+  },
+  "features": [
+   "Material: Hardened steel blade"
+  ],
+  "advantages": [
+   "30% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Bharat Demo Mart",
+  "tags": [
+   "garden",
+   "farming"
+  ],
+  "search_keywords": "gardening garden tool spade pruner తోట పనిముట్లు बागवानी తోటపని Kisan Demo Kisan Demo Pruning Shears garden farming",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081068",
+  "updated_at": "2026-10-17T08:10:21.098234"
+ },
+ {
+  "id": 103,
+  "name": "Kisan Demo Hand Pump Sprayer 2 L",
+  "category": "sprayers",
+  "subcategory": "Hand pump",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Hand Pump Sprayer 2 L - demo product.",
+  "price": 399,
+  "original_price": 599,
+  "discount": 33,
+  "rating": 4.1,
+  "review_count": 1330,
+  "stock": 70,
+  "in_stock": true,
+  "images": [
+   "/api/images/103/0.svg",
+   "/api/images/103/1.svg",
+   "/api/images/103/2.svg"
+  ],
+  "image": "/api/images/103/0.svg",
+  "specifications": {
+   "Capacity": "2 L",
+   "Type": "Manual pressure pump"
+  },
+  "features": [
+   "Capacity: 2 L",
+   "Type: Manual pressure pump"
+  ],
+  "advantages": [
+   "33% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Delivery charge ₹40, arrives in 3-5 days",
+  "seller": "Metro Demo Retail",
+  "tags": [
+   "garden",
+   "farming"
+  ],
+  "search_keywords": "sprayer స్ప్రేయర్ స్ప్రే పంప్ स्प्रेयर ஸ்ப்ரேயர் ಸ್ಪ್ರೇಯರ್ സ്പ്രേയർ স্প্রেয়ার फवारणी Kisan Demo Kisan Demo Hand Pump Sprayer 2 L garden farming",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081071",
+  "updated_at": "2026-10-17T08:10:21.098236"
+ },
+ {
+  "id": 104,
+  "name": "Bharat Demo Knapsack Sprayer 16 L",
+  "category": "sprayers",
+  "subcategory": "Knapsack",
+  "group": "",
+  "brand": "Bharat Demo",
+  "description": "Bharat Demo Knapsack Sprayer 16 L - demo product.",
+  "price": 1599,
+  "original_price": 2299,
+  "discount": 30,
+  "rating": 4.3,
+  "review_count": 1860,
+  "stock": 50,
+  "in_stock": true,
+  "images": [
+   "/api/images/104/0.svg",
+   "/api/images/104/1.svg",
+   "/api/images/104/2.svg"
+  ],
+  "image": "/api/images/104/0.svg",
+  "specifications": {
+   "Capacity": "16 L",
+   "Type": "Manual knapsack"
+  },
+  "features": [
+   "Capacity: 16 L",
+   "Type: Manual knapsack"
+  ],
+  "advantages": [
+   "30% discount on the original price"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Kisan Demo Store",
+  "tags": [
+   "farming"
+  ],
+  "search_keywords": "sprayer స్ప్రేయర్ స్ప్రే పంప్ स्प्रेयर ஸ்ப்ரேயர் ಸ್ಪ್ರೇಯರ್ സ്പ്രേയർ স্প্রেয়ার फवारणी Bharat Demo Bharat Demo Knapsack Sprayer 16 L farming",
+  "metrics": {},
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081073",
+  "updated_at": "2026-10-17T08:10:21.098238"
+ },
+ {
+  "id": 105,
+  "name": "Kisan Demo Battery Sprayer 16 L",
+  "category": "sprayers",
+  "subcategory": "Battery",
+  "group": "",
+  "brand": "Kisan Demo",
+  "description": "Kisan Demo Battery Sprayer 16 L - demo product.",
+  "price": 3299,
+  "original_price": 4499,
+  "discount": 27,
+  "rating": 4.4,
+  "review_count": 1240,
+  "stock": 28,
+  "in_stock": true,
+  "images": [
+   "/api/images/105/0.svg",
+   "/api/images/105/1.svg",
+   "/api/images/105/2.svg"
+  ],
+  "image": "/api/images/105/0.svg",
+  "specifications": {
+   "Capacity": "16 L",
+   "Type": "Battery powered",
+   "Run time": "Up to 6 hours per charge"
+  },
+  "features": [
+   "Capacity: 16 L",
+   "Type: Battery powered",
+   "Run time: Up to 6 hours per charge"
+  ],
+  "advantages": [
+   "27% discount on the original price",
+   "Highly rated by buyers"
+  ],
+  "disadvantages": [
+   "No major drawbacks in the product data"
+  ],
+  "delivery_information": "Free delivery in 3-5 days",
+  "seller": "Demo Home Hub",
+  "tags": [
+   "farming",
+   "battery-powered"
+  ],
+  "search_keywords": "sprayer స్ప్రేయర్ స్ప్రే పంప్ स्प्रेयर ஸ்ப்ரேயர் ಸ್ಪ್ರೇಯರ್ സ്പ്രേയർ স্প্রেয়ার फवारणी Kisan Demo Kisan Demo Battery Sprayer 16 L farming battery-powered",
+  "metrics": {
+   "battery_hours": 6
+  },
+  "is_active": true,
+  "created_at": "2026-10-17T08:10:21.081075",
+  "updated_at": "2026-10-17T08:10:21.098240"
+ }
+]
